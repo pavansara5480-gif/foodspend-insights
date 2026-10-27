@@ -1,0 +1,84 @@
+:root {
+  --surface: #fcfcfb;
+  --page: #f6f5f1;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --ink-3: #898781;
+  --hairline: #e1e0d9;
+  --brand: #1c5cab;
+  --brand-dark: #0d366b;
+  --good: #0ca30c;
+  --good-text: #006300;
+  --warning: #fab219;
+  --serious: #ec835a;
+  --critical: #d03b3b;
+  --bs-body-font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+body { background: var(--page); color: var(--ink); }
+
+.topbar { background: var(--brand-dark); padding: 0.6rem 0; position: sticky; top: 0; z-index: 20; }
+.brand { color: #fff; font-weight: 700; font-size: 1.1rem; text-decoration: none; white-space: nowrap; }
+.brand span { color: #9ec5f4; font-weight: 500; }
+.mainnav { display: flex; flex-wrap: wrap; gap: 0.15rem; }
+.mainnav a { color: #cde2fb; text-decoration: none; padding: 0.35rem 0.6rem; border-radius: 6px; font-size: 0.875rem; }
+.mainnav a:hover { background: rgba(255, 255, 255, 0.1); color: #fff; }
+.mainnav a.active { background: #fff; color: var(--brand-dark); font-weight: 600; }
+@media (max-width: 991.98px) {
+  .topbar .container-xxl { flex-wrap: wrap; }
+  .mainnav { display: none; width: 100%; flex-direction: column; padding-top: 0.5rem; }
+  .mainnav.open { display: flex; }
+}
+
+.synthetic-banner { background: #fff4d6; color: #5c4400; font-size: 0.8rem; padding: 0.35rem 0; border-bottom: 1px solid #f1dfa5; }
+
+h1.page-title { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.25rem; }
+.page-lead { color: var(--ink-2); max-width: 75ch; margin-bottom: 1rem; }
+
+.panel { background: var(--surface); border: 1px solid var(--hairline); border-radius: 10px; box-shadow: none; height: 100%; }
+.panel-title { font-size: 1rem; font-weight: 650; margin: 0; }
+.panel-subtitle { font-size: 0.8rem; color: var(--ink-3); margin-top: 2px; }
+
+.chart-title { font-size: 0.95rem; font-weight: 650; color: var(--ink); }
+.chart-subtitle { font-size: 0.78rem; color: var(--ink-3); margin-bottom: 0.25rem; }
+
+.kpi { background: var(--surface); border: 1px solid var(--hairline); border-radius: 10px; padding: 0.85rem 1rem; height: 100%; }
+.kpi-label { font-size: 0.78rem; color: var(--ink-2); text-transform: none; }
+.kpi-value { font-size: 1.55rem; font-weight: 700; line-height: 1.2; margin-top: 2px; }
+.kpi-hint { font-size: 0.75rem; color: var(--ink-3); margin-top: 2px; }
+
+.status-badge { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.78rem; font-weight: 600;
+  padding: 0.15rem 0.5rem; border-radius: 999px; border: 1px solid; white-space: nowrap; color: var(--ink); background: #fff; }
+.status-good { border-color: var(--good); }
+.status-good > span:first-child { color: var(--good-text); }
+.status-warning { border-color: var(--warning); }
+.status-serious { border-color: var(--serious); }
+.status-serious > span:first-child { color: #b04a1f; }
+.status-muted { border-color: var(--ink-3); color: var(--ink-2); }
+
+.filter-row { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-bottom: 1rem; }
+.filter-row .form-control, .filter-row .form-select { width: auto; }
+
+.table-sm td, .table-sm th { font-size: 0.85rem; vertical-align: middle; }
+.table thead th { color: var(--ink-2); font-weight: 600; background: #f2f1ec; white-space: nowrap; }
+.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+.is-refreshing { opacity: 0.6; transition: opacity 0.15s; }
+.disclaimer { color: var(--ink-2); border-left: 3px solid var(--warning); padding-left: 0.6rem; }
+
+.rec-card { border: 2px solid var(--brand); }
+.rec-name { font-size: 1.3rem; font-weight: 700; color: var(--brand-dark); }
+.alt-type { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-3); font-weight: 650; }
+.reason-list li { margin-bottom: 0.3rem; }
+.mono { font-family: ui-monospace, 'Cascadia Mono', Consolas, monospace; font-size: 0.8rem; }
+
+.progress { height: 10px; }
+.legend-swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+
+details > summary { cursor: pointer; list-style: none; }
+details > summary::-webkit-details-marker { display: none; }
+
+@media (max-width: 575.98px) {
+  main.container-xxl { padding-left: 16px; padding-right: 16px; }
+  .kpi-value { font-size: 1.25rem; }
+}

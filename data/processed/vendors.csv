@@ -1,0 +1,10 @@
+vendor_id,vendor_name,channel,tax_rate,typical_delivery_fee_inr
+V01,Tiffin Centre (synthetic),delivery,0.05,30
+V02,Punjabi Dhaba (synthetic),delivery,0.05,35
+V03,Biryani House (synthetic),delivery,0.05,40
+V04,Green Bowl Co. (synthetic),delivery,0.05,35
+V05,Wok Express (synthetic),delivery,0.05,30
+V06,Pizza Point (synthetic),delivery,0.05,40
+V07,Neighbourhood Grocery (synthetic),grocery,0.0,0
+V08,Home Kitchen,home,0.0,0
+V09,Corner Cafe (synthetic),cafe,0.05,0

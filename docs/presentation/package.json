@@ -1,0 +1,6 @@
+{
+  "name": "foodspend-deck",
+  "private": true,
+  "description": "Builds docs/FoodSpend_Insights.pptx from deck_data.json (run docs/build_presentation.py)",
+  "dependencies": { "pptxgenjs": "3.12.0" }
+}

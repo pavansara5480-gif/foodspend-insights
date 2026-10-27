@@ -1,0 +1,41 @@
+food_id,food_name,category,role,vendor_id,default_serving_size,serving_unit,is_active
+F001,Masala Dosa,South Indian,main,V01,250,g,True
+F002,Idli Sambar (3 idli),South Indian,main,V01,300,g,True
+F003,Ven Pongal,South Indian,main,V01,250,g,True
+F004,Paneer Butter Masala with 2 Roti,North Indian,main,V02,400,g,True
+F005,Dal Tadka with Jeera Rice,North Indian,main,V02,400,g,True
+F006,Chicken Biryani,Biryani,main,V03,450,g,True
+F007,Veg Biryani,Biryani,main,V03,400,g,True
+F008,Grilled Chicken Salad Bowl,Bowls & Salads,main,V04,350,g,True
+F009,Rajma Brown Rice Bowl,Bowls & Salads,main,V04,400,g,True
+F010,Paneer Tikka Bowl,Bowls & Salads,main,V04,350,g,True
+F011,Chole Bhature,North Indian,main,V02,350,g,True
+F012,Egg Curry with 2 Roti,North Indian,main,V02,380,g,True
+F013,Veg Hakka Noodles,Indo-Chinese,main,V05,350,g,True
+F014,Chicken Fried Rice,Indo-Chinese,main,V05,400,g,True
+F015,Margherita Pizza (half medium),Fast Food,main,V06,250,g,True
+F016,Veg Burger with Fries,Fast Food,main,V06,300,g,True
+F017,Moong Dal Khichdi,South Indian,main,V01,350,g,True
+F018,Sprouts Chaat,Bowls & Salads,main,V04,200,g,True
+F019,Fish Curry Meal,Biryani,main,V03,450,g,True
+F020,Poha,South Indian,main,V01,200,g,True
+F021,Curd (Dahi),Dairy,pantry,V07,150,g,True
+F022,Banana,Fruit,pantry,V07,120,g,True
+F023,Boiled Eggs,Eggs,pantry,V07,100,g,True
+F024,Roasted Chana,Snacks,pantry,V07,40,g,True
+F025,Apple,Fruit,pantry,V07,150,g,True
+F026,Mixed Nuts,Snacks,pantry,V07,30,g,True
+F027,"Home Dal, Rice and Sabzi Thali",Home-cooked,main,V08,450,g,True
+F028,Home Oats with Milk,Home-cooked,main,V08,250,g,True
+F029,Home Vegetable Upma,Home-cooked,main,V08,250,g,True
+F030,Home Paneer Bhurji with 2 Roti,Home-cooked,main,V08,300,g,True
+F031,Masala Chai,Beverages,beverage,V09,150,ml,True
+F032,Cold Coffee,Beverages,beverage,V09,300,ml,True
+F033,Samosa (2 pcs),Snacks,snack,V09,140,g,True
+F034,Gulab Jamun (2 pcs),Desserts,snack,V09,100,g,True
+F035,Fresh Lime Soda,Beverages,beverage,V09,300,ml,True
+F036,Veg Sandwich,Snacks,snack,V09,180,g,True
+F037,Buttermilk (Chaas),Beverages,beverage,V09,250,ml,True
+F038,Banana Peanut Smoothie,Beverages,beverage,V04,350,ml,True
+F039,Cucumber Raita,Sides,side,V02,150,g,True
+F040,Green Salad,Sides,side,V04,120,g,True

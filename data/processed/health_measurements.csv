@@ -1,0 +1,80 @@
+measurement_id,user_id,measurement_date,indicator,value,unit,source,notes
+H0001,U001,2025-11-02,weight,82.2,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0002,U001,2025-11-09,weight,82.9,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0003,U001,2025-11-16,weight,81.9,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0004,U001,2025-12-07,weight,82.2,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0005,U001,2025-12-14,weight,82.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0006,U001,2025-12-21,weight,82.4,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0007,U001,2025-12-28,weight,82.6,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0008,U001,2026-01-04,weight,82.3,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0009,U001,2026-01-18,weight,82.4,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0010,U001,2026-01-25,weight,82.2,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0011,U001,2026-02-01,weight,82.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0012,U001,2026-02-08,weight,81.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0013,U001,2026-02-15,weight,82.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0014,U001,2026-04-05,weight,80.9,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0015,U001,2026-04-12,weight,81.0,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0016,U001,2026-04-19,weight,80.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0017,U001,2026-04-26,weight,80.1,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0018,U001,2026-05-03,weight,80.0,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0019,U001,2026-05-10,weight,80.7,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0020,U001,2026-05-17,weight,79.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0022,U001,2026-05-31,weight,80.0,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0023,U001,2026-06-14,weight,79.2,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0024,U001,2026-06-21,weight,79.7,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0025,U001,2026-06-28,weight,79.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0026,U001,2026-07-05,weight,79.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0027,U001,2026-07-12,weight,79.1,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0028,U001,2026-07-19,weight,78.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0029,U001,2026-07-26,weight,78.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0030,U001,2026-08-02,weight,78.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0031,U001,2026-08-09,weight,78.8,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0032,U001,2026-08-16,weight,78.6,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0033,U001,2026-08-23,weight,78.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0034,U001,2026-08-30,weight,79.1,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0035,U001,2026-09-06,weight,78.6,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0036,U001,2026-09-13,weight,78.7,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0037,U001,2026-09-20,weight,77.5,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0038,U001,2026-09-27,weight,78.6,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0039,U001,2026-10-04,weight,78.7,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0040,U001,2026-10-11,weight,78.6,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0041,U001,2026-10-18,weight,77.6,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0042,U001,2026-10-25,weight,78.9,kg,home digital scale (synthetic),"Morning, before breakfast"
+H0043,U001,2025-11-03,waist_circumference,97.1,cm,tape measure at navel (synthetic),
+H0044,U001,2025-11-03,systolic_bp,127.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0045,U001,2025-11-03,diastolic_bp,88.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0046,U001,2025-12-05,waist_circumference,95.5,cm,tape measure at navel (synthetic),
+H0047,U001,2025-12-05,systolic_bp,124.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0048,U001,2025-12-05,diastolic_bp,87.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0049,U001,2026-01-01,waist_circumference,95.9,cm,tape measure at navel (synthetic),
+H0050,U001,2026-01-01,systolic_bp,133.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0051,U001,2026-01-01,diastolic_bp,83.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0052,U001,2026-02-04,waist_circumference,94.9,cm,tape measure at navel (synthetic),
+H0053,U001,2026-02-04,systolic_bp,128.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0054,U001,2026-02-04,diastolic_bp,85.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0055,U001,2026-03-06,waist_circumference,94.9,cm,tape measure at navel (synthetic),
+H0056,U001,2026-03-31,waist_circumference,94.3,cm,tape measure at navel (synthetic),
+H0057,U001,2026-03-31,systolic_bp,125.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0058,U001,2026-03-31,diastolic_bp,87.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0059,U001,2026-04-30,waist_circumference,94.8,cm,tape measure at navel (synthetic),
+H0060,U001,2026-04-30,systolic_bp,128.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0061,U001,2026-04-30,diastolic_bp,81.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0062,U001,2026-06-02,waist_circumference,94.1,cm,tape measure at navel (synthetic),
+H0063,U001,2026-06-02,systolic_bp,123.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0064,U001,2026-06-02,diastolic_bp,82.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0065,U001,2026-07-02,waist_circumference,93.3,cm,tape measure at navel (synthetic),
+H0066,U001,2026-07-02,systolic_bp,124.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0067,U001,2026-07-02,diastolic_bp,79.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0068,U001,2026-07-31,waist_circumference,92.8,cm,tape measure at navel (synthetic),
+H0069,U001,2026-07-31,systolic_bp,122.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0070,U001,2026-07-31,diastolic_bp,80.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0071,U001,2026-08-31,waist_circumference,92.8,cm,tape measure at navel (synthetic),
+H0072,U001,2026-08-31,systolic_bp,121.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0073,U001,2026-08-31,diastolic_bp,78.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0074,U001,2026-10-02,waist_circumference,92.1,cm,tape measure at navel (synthetic),
+H0075,U001,2026-10-02,systolic_bp,124.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0076,U001,2026-10-02,diastolic_bp,77.0,mmHg,home BP monitor (synthetic),"Seated, average of 2 readings"
+H0077,U001,2025-11-10,fasting_glucose,104.0,mg/dL,laboratory report (synthetic),8+ hour fast
+H0078,U001,2026-02-12,fasting_glucose,102.0,mg/dL,laboratory report (synthetic),8+ hour fast
+H0079,U001,2026-05-18,fasting_glucose,99.0,mg/dL,laboratory report (synthetic),8+ hour fast
+H0080,U001,2026-08-24,fasting_glucose,97.0,mg/dL,laboratory report (synthetic),8+ hour fast

@@ -1,0 +1,836 @@
+{
+ "period": [
+  "2025-10-27",
+  "2026-10-26"
+ ],
+ "spending": {
+  "total": 148988.1,
+  "transactions": 648,
+  "food_orders": 577,
+  "avg_food_order": 201.2,
+  "avg_month": 12425.2,
+  "components": {
+   "items_subtotal": 131221.0,
+   "discounts": 3223.0,
+   "tax": 4755.1,
+   "delivery_fees": 13165.0,
+   "other_charges": 3070.0
+  },
+  "by_type": {
+   "cafe_purchase": 9817.5,
+   "delivery_order": 106274.6,
+   "grocery_purchase": 32896.0
+  },
+  "home_meals": 575
+ },
+ "monthly": {
+  "labels": [
+   "2025-10",
+   "2025-11",
+   "2025-12",
+   "2026-01",
+   "2026-02",
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08",
+   "2026-09",
+   "2026-10"
+  ],
+  "delivery": [
+   1489.0,
+   8185.0,
+   6164.0,
+   8647.0,
+   9688.0,
+   3923.0,
+   9719.0,
+   11775.0,
+   9652.0,
+   9436.0,
+   9663.0,
+   9004.0,
+   8930.0
+  ],
+  "cafe": [
+   52.0,
+   704.0,
+   1055.0,
+   751.0,
+   640.0,
+   436.0,
+   746.0,
+   567.0,
+   982.0,
+   856.0,
+   1076.0,
+   1208.0,
+   746.0
+  ],
+  "grocery": [
+   780.0,
+   2448.0,
+   3102.0,
+   2962.0,
+   2421.0,
+   2204.0,
+   1911.0,
+   2172.0,
+   2753.0,
+   2978.0,
+   3767.0,
+   2980.0,
+   2418.0
+  ]
+ },
+ "nutrition": {
+  "days_logged": 346,
+  "coverage": 94.8,
+  "avg": {
+   "calories_kcal": 1434.1,
+   "protein_g": 50.9,
+   "carbs_g": 193.5,
+   "fat_g": 50.5,
+   "fiber_g": 17.4
+  },
+  "goals": [
+   {
+    "goal_key": "protein",
+    "nutrient": "protein_g",
+    "average_logged": 50.9,
+    "target": 65.5,
+    "pct_of_target": 77.7,
+    "status": "Below target",
+    "unit": "g/day"
+   },
+   {
+    "goal_key": "fiber",
+    "nutrient": "fiber_g",
+    "average_logged": 17.4,
+    "target": 30.0,
+    "pct_of_target": 58.0,
+    "status": "Below target",
+    "unit": "g/day"
+   },
+   {
+    "goal_key": "calories",
+    "nutrient": "calories_kcal",
+    "average_logged": 1434.1,
+    "target": 2110.0,
+    "pct_of_target": 68.0,
+    "status": "Within range",
+    "unit": "kcal/day"
+   }
+  ],
+  "energy": [
+   {
+    "indicator": "fat_energy_pct",
+    "value": 31.7,
+    "status": "Above target"
+   },
+   {
+    "indicator": "carb_energy_pct",
+    "value": 54.0,
+    "status": "Within range"
+   }
+  ],
+  "unknown_fiber_items": 57
+ },
+ "preferences": {
+  "records": 206,
+  "rated": 37,
+  "avg": 3.93,
+  "spearman": 0.44,
+  "groups": {
+   "Positive": 24,
+   "Neutral": 9,
+   "Negative": 3,
+   "No feedback": 3,
+   "Negative (avoid)": 1
+  },
+  "points": [
+   {
+    "name": "Masala Dosa",
+    "x": 44,
+    "y": 4.31
+   },
+   {
+    "name": "Dal Tadka with Jeera Rice",
+    "x": 30,
+    "y": 4.0
+   },
+   {
+    "name": "Chicken Biryani",
+    "x": 43,
+    "y": 4.62
+   },
+   {
+    "name": "Masala Chai",
+    "x": 110,
+    "y": 4.15
+   },
+   {
+    "name": "Home Dal, Rice and Sabzi Thali",
+    "x": 0,
+    "y": 3.82
+   },
+   {
+    "name": "Egg Curry with 2 Roti",
+    "x": 24,
+    "y": 3.64
+   },
+   {
+    "name": "Chicken Fried Rice",
+    "x": 30,
+    "y": 3.7
+   },
+   {
+    "name": "Poha",
+    "x": 26,
+    "y": 4.22
+   },
+   {
+    "name": "Idli Sambar (3 idli)",
+    "x": 25,
+    "y": 4.0
+   },
+   {
+    "name": "Paneer Butter Masala with 2 Roti",
+    "x": 42,
+    "y": 4.38
+   },
+   {
+    "name": "Veg Hakka Noodles",
+    "x": 40,
+    "y": 2.75
+   },
+   {
+    "name": "Veg Biryani",
+    "x": 25,
+    "y": 3.86
+   },
+   {
+    "name": "Paneer Tikka Bowl",
+    "x": 12,
+    "y": 4.5
+   },
+   {
+    "name": "Samosa (2 pcs)",
+    "x": 45,
+    "y": 4.5
+   },
+   {
+    "name": "Curd (Dahi)",
+    "x": 71,
+    "y": 4.33
+   },
+   {
+    "name": "Veg Burger with Fries",
+    "x": 17,
+    "y": 3.0
+   },
+   {
+    "name": "Grilled Chicken Salad Bowl",
+    "x": 18,
+    "y": 4.5
+   },
+   {
+    "name": "Sprouts Chaat",
+    "x": 3,
+    "y": 4.25
+   },
+   {
+    "name": "Home Paneer Bhurji with 2 Roti",
+    "x": 0,
+    "y": 4.25
+   },
+   {
+    "name": "Moong Dal Khichdi",
+    "x": 11,
+    "y": 3.25
+   },
+   {
+    "name": "Home Oats with Milk",
+    "x": 0,
+    "y": 3.25
+   },
+   {
+    "name": "Home Vegetable Upma",
+    "x": 0,
+    "y": 3.25
+   },
+   {
+    "name": "Ven Pongal",
+    "x": 13,
+    "y": 2.75
+   },
+   {
+    "name": "Margherita Pizza (half medium)",
+    "x": 17,
+    "y": 4.0
+   },
+   {
+    "name": "Boiled Eggs",
+    "x": 71,
+    "y": 4.0
+   },
+   {
+    "name": "Green Salad",
+    "x": 11,
+    "y": 2.33
+   },
+   {
+    "name": "Gulab Jamun (2 pcs)",
+    "x": 15,
+    "y": 5.0
+   },
+   {
+    "name": "Banana",
+    "x": 71,
+    "y": 4.5
+   },
+   {
+    "name": "Rajma Brown Rice Bowl",
+    "x": 9,
+    "y": 4.0
+   },
+   {
+    "name": "Apple",
+    "x": 29,
+    "y": 4.0
+   },
+   {
+    "name": "Veg Sandwich",
+    "x": 13,
+    "y": 4.0
+   },
+   {
+    "name": "Buttermilk (Chaas)",
+    "x": 5,
+    "y": 4.0
+   },
+   {
+    "name": "Banana Peanut Smoothie",
+    "x": 0,
+    "y": 4.0
+   },
+   {
+    "name": "Cucumber Raita",
+    "x": 28,
+    "y": 4.0
+   },
+   {
+    "name": "Fresh Lime Soda",
+    "x": 6,
+    "y": 3.0
+   },
+   {
+    "name": "Chole Bhature",
+    "x": 1,
+    "y": 2.0
+   },
+   {
+    "name": "Fish Curry Meal",
+    "x": 1,
+    "y": 2.0
+   }
+  ]
+ },
+ "health": [
+  {
+   "indicator": "bmi",
+   "unit": "kg/m2",
+   "first_value": 27.8,
+   "latest_value": 26.7,
+   "change": -1.1,
+   "measurements": 41,
+   "reference_lower": 18.5,
+   "reference_upper": 24.9,
+   "latest_status": "Above target"
+  },
+  {
+   "indicator": "diastolic_bp",
+   "unit": "mmHg",
+   "first_value": 88.0,
+   "latest_value": 77.0,
+   "change": -11.0,
+   "measurements": 11,
+   "reference_lower": null,
+   "reference_upper": 79.0,
+   "latest_status": "Within range"
+  },
+  {
+   "indicator": "fasting_glucose",
+   "unit": "mg/dL",
+   "first_value": 104.0,
+   "latest_value": 97.0,
+   "change": -7.0,
+   "measurements": 4,
+   "reference_lower": 70.0,
+   "reference_upper": 99.0,
+   "latest_status": "Within range"
+  },
+  {
+   "indicator": "systolic_bp",
+   "unit": "mmHg",
+   "first_value": 127.0,
+   "latest_value": 124.0,
+   "change": -3.0,
+   "measurements": 11,
+   "reference_lower": null,
+   "reference_upper": 119.0,
+   "latest_status": "Above target"
+  },
+  {
+   "indicator": "waist_circumference",
+   "unit": "cm",
+   "first_value": 97.1,
+   "latest_value": 92.1,
+   "change": -5.0,
+   "measurements": 12,
+   "reference_lower": null,
+   "reference_upper": 89.9,
+   "latest_status": "Above target"
+  },
+  {
+   "indicator": "weight",
+   "unit": "kg",
+   "first_value": 82.2,
+   "latest_value": 78.9,
+   "change": -3.3,
+   "measurements": 41,
+   "reference_lower": null,
+   "reference_upper": null,
+   "latest_status": "Insufficient data"
+  }
+ ],
+ "quality": {
+  "raw": {
+   "users": 1,
+   "vendors": 9,
+   "foods": 40,
+   "food_nutrition": 40,
+   "meal_options": 80,
+   "orders": 1225,
+   "order_items": 1762,
+   "food_feedback": 208,
+   "health_measurements": 81,
+   "nutrition_goals": 3,
+   "reference_ranges": 7
+  },
+  "clean": {
+   "users": 1,
+   "vendors": 9,
+   "foods": 40,
+   "food_nutrition": 40,
+   "meal_options": 80,
+   "orders": 1223,
+   "order_items": 1755,
+   "food_feedback": 206,
+   "health_measurements": 79,
+   "nutrition_goals": 3,
+   "reference_ranges": 7
+  },
+  "rejected": 7,
+  "checks": [
+   {
+    "table": "orders",
+    "check": "exact duplicate rows removed",
+    "rows_removed": 2
+   },
+   {
+    "table": "order_items",
+    "check": "exact duplicate rows removed",
+    "rows_removed": 3
+   },
+   {
+    "table": "health_measurements",
+    "check": "exact duplicate rows removed",
+    "rows_removed": 1
+   },
+   {
+    "table": "food_nutrition",
+    "check": "nutrition basis unit matches food serving unit",
+    "mismatches": 0
+   },
+   {
+    "table": "food_nutrition",
+    "check": "foods with unknown nutrient values (kept as NULL, not zero)",
+    "foods": [
+     "F013: fiber_g",
+     "F016: fiber_g"
+    ]
+   },
+   {
+    "table": "orders",
+    "check": "meal_type inferred from order time (flagged meal_type_inferred)",
+    "rows": 2,
+    "rule": "breakfast <11:00, lunch 11-16, snack 16-19, dinner >=19:00"
+   },
+   {
+    "table": "orders",
+    "check": "final_total recomputed from components (subtotal - discount + tax + delivery + other)",
+    "rows": 2,
+    "order_ids": [
+     "O00017",
+     "O00676"
+    ],
+    "difference_inr": 100.0
+   },
+   {
+    "table": "order_items",
+    "check": "serving units standardised",
+    "rows": 30,
+    "variants": [
+     "G",
+     "ML",
+     "gm",
+     "grams"
+    ]
+   },
+   {
+    "table": "order_items",
+    "check": "blank food_id resolved by exact normalised-name match",
+    "resolved": 3,
+    "unresolved": 1
+   },
+   {
+    "table": "order_items",
+    "check": "raw food names standardised to catalogue name",
+    "rows": 43
+   },
+   {
+    "table": "order_items",
+    "check": "unknown food (orphan food_id)",
+    "rows_rejected": 2
+   },
+   {
+    "table": "order_items",
+    "check": "quantity must be > 0",
+    "rows_rejected": 2
+   },
+   {
+    "table": "order_items",
+    "check": "item unit matches food unit",
+    "mismatches": 0
+   },
+   {
+    "table": "order_items",
+    "check": "line_total = quantity x unit_price - item_discount",
+    "mismatches": 0
+   },
+   {
+    "table": "orders",
+    "check": "sum(item line totals) equals order items_subtotal (no double counting)",
+    "orders_checked": 1223,
+    "mismatches": 0,
+    "orders_without_items": 1
+   },
+   {
+    "table": "food_feedback",
+    "check": "rating missing or outside 1-5",
+    "rows_rejected": 2
+   },
+   {
+    "table": "food_feedback",
+    "check": "preference labels standardised",
+    "rows": 5,
+    "variants": [
+     "LIKED",
+     "like"
+    ]
+   },
+   {
+    "table": "food_feedback",
+    "check": "order link removed where order_id does not exist (feedback kept)",
+    "rows": 1,
+    "feedback_ids": [
+     "FB0031"
+    ]
+   },
+   {
+    "table": "food_feedback",
+    "check": "label contradicts rating (kept, reported)",
+    "rows": 0
+   },
+   {
+    "table": "health_measurements",
+    "check": "physiologically implausible value or unknown indicator",
+    "rows_rejected": 1
+   }
+  ],
+  "coverage": {
+   "first_date": "2025-10-27",
+   "last_date": "2026-10-26",
+   "calendar_days": 365,
+   "days_with_records": 346,
+   "gaps_of_3_plus_days": [
+    {
+     "from": "2026-03-14",
+     "to": "2026-03-29",
+     "days": 16
+    }
+   ],
+   "orders_by_record_type": {
+    "home_meal": 575,
+    "delivery_order": 431,
+    "cafe_purchase": 146,
+    "grocery_purchase": 71
+   },
+   "items_by_consumption_status": {
+    "consumed": 1321,
+    "unknown": 326,
+    "partially_consumed": 86,
+    "not_consumed": 22
+   }
+  }
+ },
+ "rec_any": {
+  "context": {
+   "meal_target": 22.9,
+   "kcal_allowance": 738,
+   "daily_target": 65.5,
+   "recent": 53.0
+  },
+  "best": {
+   "name": "Home Paneer Bhurji with 2 Roti",
+   "cost": 85.0,
+   "protein": 26.0,
+   "fiber": 5.0,
+   "kcal": 520.0,
+   "score": 0.8869,
+   "items": [
+    "Home Paneer Bhurji with 2 Roti"
+   ],
+   "confidence": "High",
+   "reasons": [
+    "Supplies 26 g protein, 113.4% of the lunch share (22.9 g = 35% of 65.5 g/day) for the goal 'Increase protein toward RDA'.",
+    "520 kcal against a lunch allowance of 738 kcal (70.4%; calorie-fit score 1.00).",
+    "Estimated cost Rs 85 (incl. tax/fees Rs 0), leaving Rs 265 of the Rs 350 budget (24.3% used).",
+    "Home Paneer Bhurji with 2 Roti: mean rating 4.2/5 from 4 feedback record(s) (adjusted 4.14 after shrinkage), latest label 'liked' (2026-10-18).",
+    "Context: logged average 53 g/day over 2026-09-27 to 2026-10-26 (80.9% of target; status 'Below target', based on 30 logged days)."
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "Home Dal, Rice and Sabzi Thali + Curd (Dahi)",
+    "cost": 94.08,
+    "protein": 23.2,
+    "fiber": 10.0,
+    "kcal": 611.5,
+    "score": 0.8666,
+    "items": [
+     "Home Dal, Rice and Sabzi Thali",
+     "Curd (Dahi)"
+    ],
+    "type": "Substitute the main dish"
+   },
+   {
+    "name": "Home Paneer Bhurji with 2 Roti x1.5",
+    "cost": 127.5,
+    "protein": 39.0,
+    "fiber": 7.5,
+    "kcal": 780.0,
+    "score": 0.8542,
+    "items": [
+     "Home Paneer Bhurji with 2 Roti"
+    ],
+    "type": "Increase the serving"
+   },
+   {
+    "name": "Home Paneer Bhurji with 2 Roti + Banana",
+    "cost": 91.36,
+    "protein": 27.3,
+    "fiber": 8.1,
+    "kcal": 626.8,
+    "score": 0.8846,
+    "items": [
+     "Home Paneer Bhurji with 2 Roti",
+     "Banana"
+    ],
+    "type": "Add a previously purchased food"
+   },
+   {
+    "name": "Home Dal, Rice and Sabzi Thali",
+    "cost": 75.0,
+    "protein": 18.0,
+    "fiber": 10.0,
+    "kcal": 520.0,
+    "score": 0.795,
+    "items": [
+     "Home Dal, Rice and Sabzi Thali"
+    ],
+    "type": "Lowest-cost option"
+   }
+  ],
+  "excluded": [
+   "Veg Hakka Noodles (disliked)",
+   "Green Salad (disliked)",
+   "Chole Bhature (disliked)",
+   "Fish Curry Meal (avoid)"
+  ],
+  "evaluated": 210,
+  "feasible": 132
+ },
+ "rec_delivery": {
+  "best": {
+   "name": "Idli Sambar (3 idli) + Boiled Eggs",
+   "cost": 139.09,
+   "protein": 24.0,
+   "fiber": 6.0,
+   "kcal": 485.0,
+   "score": 0.8444,
+   "items": [
+    "Idli Sambar (3 idli)",
+    "Boiled Eggs"
+   ]
+  },
+  "alternatives": [
+   {
+    "name": "Masala Dosa + Boiled Eggs",
+    "cost": 170.59,
+    "protein": 22.0,
+    "fiber": 5.0,
+    "kcal": 575.0,
+    "score": 0.828,
+    "items": [
+     "Masala Dosa",
+     "Boiled Eggs"
+    ],
+    "type": "Substitute the main dish"
+   },
+   {
+    "name": "Idli Sambar (3 idli) x2 + Banana",
+    "cost": 219.86,
+    "protein": 23.3,
+    "fiber": 15.1,
+    "kcal": 766.8,
+    "score": 0.797,
+    "items": [
+     "Idli Sambar (3 idli)",
+     "Banana"
+    ],
+    "type": "Increase the serving"
+   },
+   {
+    "name": "Idli Sambar (3 idli) + Roasted Chana",
+    "cost": 136.97,
+    "protein": 19.8,
+    "fiber": 12.8,
+    "kcal": 477.6,
+    "score": 0.7797,
+    "items": [
+     "Idli Sambar (3 idli)",
+     "Roasted Chana"
+    ],
+    "type": "Lowest-cost option"
+   }
+  ]
+ },
+ "scenarios": [
+  {
+   "name": "Serving x2",
+   "cost_diff": 267.75,
+   "protein_diff": 26.0,
+   "kcal_diff": 720.0,
+   "modified_cost": 575.5,
+   "within_budget": false
+  },
+  {
+   "name": "Add boiled eggs",
+   "cost_diff": 14.84,
+   "protein_diff": 13.0,
+   "kcal_diff": 155.0,
+   "modified_cost": 322.59,
+   "within_budget": true
+  },
+  {
+   "name": "Swap: chicken salad bowl",
+   "cost_diff": 42.0,
+   "protein_diff": 12.0,
+   "kcal_diff": -310.0,
+   "modified_cost": 349.75,
+   "within_budget": true
+  },
+  {
+   "name": "Swap: home thali + curd",
+   "cost_diff": -213.67,
+   "protein_diff": -2.8,
+   "kcal_diff": -108.5,
+   "modified_cost": 94.08,
+   "within_budget": true
+  }
+ ],
+ "budgets": [
+  {
+   "budget": 150,
+   "feasible": 5,
+   "top": "Idli Sambar (3 idli) + Boiled Eggs",
+   "cost": 139.09,
+   "remaining": 10.91,
+   "util": 92.7,
+   "protein": 24.0
+  },
+  {
+   "budget": 250,
+   "feasible": 37,
+   "top": "Idli Sambar (3 idli) + Boiled Eggs",
+   "cost": 139.09,
+   "remaining": 110.91,
+   "util": 55.6,
+   "protein": 24.0
+  },
+  {
+   "budget": 350,
+   "feasible": 108,
+   "top": "Idli Sambar (3 idli) + Boiled Eggs",
+   "cost": 139.09,
+   "remaining": 210.91,
+   "util": 39.7,
+   "protein": 24.0
+  },
+  {
+   "budget": 500,
+   "feasible": 139,
+   "top": "Idli Sambar (3 idli) + Boiled Eggs",
+   "cost": 139.09,
+   "remaining": 360.91,
+   "util": 27.8,
+   "protein": 24.0
+  }
+ ],
+ "findings": [
+  {
+   "title": "Delivery dominates spending",
+   "detail": "Delivery orders account for Rs 106,275 of Rs 148,988 (71%) across 431 orders. Tax, delivery and platform charges add Rs 20,990 (14.1% of spending); discounts saved Rs 3,223.",
+   "evidence": "spending_summary(): sum of order final_total by record type"
+  },
+  {
+   "title": "Logged protein is below target",
+   "detail": "Average logged intake is 50.9 g/day vs a documented target of 65.5 (77.7%), over 346 logged days. Logging is incomplete, so true intake may be higher.",
+   "evidence": "nutrition_summary(): mean of daily consumed totals over logged days"
+  },
+  {
+   "title": "Logged fibre is below target",
+   "detail": "Average logged intake is 17.4 g/day vs a documented target of 30 (58.0%), over 346 logged days. Logging is incomplete, so true intake may be higher.",
+   "evidence": "nutrition_summary(): mean of daily consumed totals over logged days"
+  },
+  {
+   "title": "Frequent purchases are not the same as preferences",
+   "detail": "Veg Hakka Noodles is #9 by purchase count (40 purchases) but has a mean rating of 2.8/5 and latest label 'disliked'. Spearman correlation between rating and purchase count across rated foods: 0.44.",
+   "evidence": "preference_table(): explicit feedback vs purchase events, kept as separate columns"
+  },
+  {
+   "title": "Well-rated options are under-used",
+   "detail": "Sprouts Chaat is rated 4.2/5 (4 ratings) yet was purchased only 3 times.",
+   "evidence": "preference_table()"
+  },
+  {
+   "title": "Weight trend (association only)",
+   "detail": "Recorded weight changed by -3.3 kg (82.2 -> 78.9 kg, 41 readings, 2025-11-02 to 2026-10-25). This is not attributed to any food choice; measurement gaps exist (e.g. March).",
+   "evidence": "health_summary()"
+  }
+ ]
+}

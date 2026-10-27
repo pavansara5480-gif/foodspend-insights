@@ -1,0 +1,42 @@
+{
+  "run_at": "2026-10-27T23:09:22",
+  "data_dir": "C:\\Users\\Pavan kumar\\Food Health\\data\\processed",
+  "dry_run": false,
+  "database": "sqlite",
+  "loaded": {
+    "users": 1,
+    "vendors": 9,
+    "foods": 40,
+    "food_nutrition": 40,
+    "meal_options": 80,
+    "orders": 1223,
+    "order_items": 1755,
+    "food_feedback": 206,
+    "health_measurements": 79,
+    "nutrition_goals": 3,
+    "reference_ranges": 7
+  },
+  "rejected": [],
+  "reconciliation": {
+    "orders": {
+      "csv": 1223,
+      "database": 1223,
+      "match": true
+    },
+    "order_items": {
+      "csv": 1755,
+      "database": 1755,
+      "match": true
+    },
+    "spending_inr": {
+      "csv": 148988.1,
+      "database": 148988.1,
+      "match": true
+    },
+    "item_line_totals_inr": {
+      "csv": 162397.77,
+      "database": 162397.77,
+      "match": true
+    }
+  }
+}

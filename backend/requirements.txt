@@ -1,0 +1,8 @@
+# Backend + shared analytics (tested with Python 3.14 on Windows 11)
+Django>=6.0,<6.2
+djangorestframework>=3.16
+django-cors-headers>=4.6
+mysqlclient>=2.2.1
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=2.0

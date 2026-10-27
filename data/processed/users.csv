@@ -1,0 +1,2 @@
+user_id,display_name,sex,birth_year,height_cm,activity_level,is_synthetic
+U001,Synthetic Persona A,male,1995,172,sedentary,True

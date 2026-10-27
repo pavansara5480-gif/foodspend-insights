@@ -1,0 +1,81 @@
+meal_option_id,food_id,meal_type,serving_size,serving_unit,price_per_serving_inr,allowed_servings,availability_status,price_source,price_date
+MO001,F001,breakfast,250,g,115.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO002,F001,lunch,250,g,115.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO003,F001,dinner,250,g,115.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO004,F002,breakfast,300,g,85.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO005,F002,lunch,300,g,85.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO006,F003,breakfast,250,g,95.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO007,F004,lunch,400,g,255.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO008,F004,dinner,400,g,255.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO009,F005,lunch,400,g,190.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO010,F005,dinner,400,g,190.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO011,F006,lunch,450,g,275.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO012,F006,dinner,450,g,275.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO013,F007,lunch,400,g,210.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO014,F007,dinner,400,g,210.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO015,F008,lunch,350,g,295.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO016,F008,dinner,350,g,295.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO017,F009,lunch,400,g,235.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO018,F009,dinner,400,g,235.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO019,F010,lunch,350,g,275.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO020,F010,dinner,350,g,275.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO021,F011,lunch,350,g,180.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO022,F012,lunch,380,g,180.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO023,F012,dinner,380,g,180.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO024,F013,lunch,350,g,190.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO025,F013,dinner,350,g,190.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO026,F014,lunch,400,g,225.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO027,F014,dinner,400,g,225.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO028,F015,lunch,250,g,235.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO029,F015,dinner,250,g,235.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO030,F016,lunch,300,g,200.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO031,F016,dinner,300,g,200.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO032,F016,snack,300,g,200.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO033,F017,lunch,350,g,125.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO034,F017,dinner,350,g,125.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO035,F018,lunch,200,g,125.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO036,F018,snack,200,g,125.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO037,F019,lunch,450,g,295.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO038,F019,dinner,450,g,295.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO039,F020,breakfast,200,g,65.0,"1,2",listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO040,F021,breakfast,150,g,19.08,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO041,F021,lunch,150,g,19.08,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO042,F021,dinner,150,g,19.08,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO043,F021,snack,150,g,19.08,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO044,F022,breakfast,120,g,6.36,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO045,F022,lunch,120,g,6.36,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO046,F022,snack,120,g,6.36,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO047,F023,breakfast,100,g,14.84,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO048,F023,lunch,100,g,14.84,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO049,F023,dinner,100,g,14.84,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO050,F023,snack,100,g,14.84,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO051,F024,lunch,40,g,12.72,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO052,F024,snack,40,g,12.72,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO053,F025,breakfast,150,g,31.8,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO054,F025,lunch,150,g,31.8,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO055,F025,snack,150,g,31.8,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO056,F026,snack,30,g,31.79,"0.5,1,2",listed_in_dataset,"latest grocery price in synthetic history, prorated to serving",2026-10-26
+MO057,F027,lunch,450,g,75.0,"1,1.5",listed_in_dataset,estimated ingredient cost (synthetic),2026-10-26
+MO058,F027,dinner,450,g,75.0,"1,1.5",listed_in_dataset,estimated ingredient cost (synthetic),2026-10-26
+MO059,F028,breakfast,250,g,35.0,"1,1.5",listed_in_dataset,estimated ingredient cost (synthetic),2026-10-26
+MO060,F029,breakfast,250,g,30.0,"1,1.5",listed_in_dataset,estimated ingredient cost (synthetic),2026-10-26
+MO061,F030,lunch,300,g,85.0,"1,1.5",listed_in_dataset,estimated ingredient cost (synthetic),2026-10-26
+MO062,F030,dinner,300,g,85.0,"1,1.5",listed_in_dataset,estimated ingredient cost (synthetic),2026-10-26
+MO063,F031,breakfast,150,ml,25.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO064,F031,snack,150,ml,25.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO065,F032,snack,300,ml,125.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO066,F033,snack,140,g,55.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO067,F034,snack,100,g,75.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO068,F034,dinner,100,g,75.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO069,F035,lunch,300,ml,65.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO070,F035,snack,300,ml,65.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO071,F036,breakfast,180,g,95.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO072,F036,snack,180,g,95.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO073,F037,lunch,250,ml,30.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO074,F037,snack,250,ml,30.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO075,F038,breakfast,350,ml,160.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO076,F038,snack,350,ml,160.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO077,F039,lunch,150,g,65.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO078,F039,dinner,150,g,65.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO079,F040,lunch,120,g,55.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26
+MO080,F040,dinner,120,g,55.0,1,listed_in_dataset,latest list price in synthetic order history,2026-10-26

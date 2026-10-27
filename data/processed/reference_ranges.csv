@@ -1,0 +1,8 @@
+indicator,lower,upper,unit,source
+bmi,18.5,24.9,kg/m2,WHO adult BMI classification (normal 18.5-24.9). WHO expert consultation (2004) notes lower public-health action points (23) for Asian populations.
+fasting_glucose,70,99,mg/dL,American Diabetes Association Standards of Care: fasting plasma glucose < 100 mg/dL is the normal range
+systolic_bp,,119,mmHg,2017 ACC/AHA guideline: normal blood pressure < 120 mmHg systolic
+diastolic_bp,,79,mmHg,2017 ACC/AHA guideline: normal blood pressure < 80 mmHg diastolic
+waist_circumference,,89.9,cm,IDF consensus (2006): ethnic-specific waist threshold for South Asian men >= 90 cm
+fat_energy_pct,,30,% of energy,WHO Healthy diet fact sheet: total fat should not exceed 30% of total energy intake
+carb_energy_pct,45,65,% of energy,IOM Acceptable Macronutrient Distribution Range: carbohydrate 45-65% of energy

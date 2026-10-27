@@ -1,0 +1,1756 @@
+order_item_id,order_id,food_id,food_name_raw,quantity,serving_size,serving_unit,unit_price_inr,item_discount_inr,line_total_inr,consumption_status,portion_consumed,food_match_method
+I000001,O00001,F021,Curd (Dahi),1,500,g,60.0,0.0,60.0,unknown,,food_id
+I000002,O00001,F022,Banana,6,120,g,6.0,0.0,36.0,unknown,,food_id
+I000003,O00001,F023,Boiled Eggs,1,600,g,84.0,0.0,84.0,unknown,,food_id
+I000004,O00001,F024,Roasted Chana,1,500,g,150.0,0.0,150.0,unknown,,food_id
+I000005,O00001,F025,Apple,1,1000,g,200.0,0.0,200.0,unknown,,food_id
+I000006,O00001,F026,Mixed Nuts,1,250,g,250.0,0.0,250.0,unknown,,food_id
+I000007,O00002,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000008,O00003,F007,Veg Biryani,1,400,g,200.0,0.0,200.0,consumed,1.0,food_id
+I000009,O00004,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000010,O00005,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000011,O00006,F022,Banana,1,120,g,6.0,0.0,6.0,consumed,1.0,food_id
+I000012,O00006,F023,Boiled Eggs,1,100,g,14.0,0.0,14.0,consumed,1.0,food_id
+I000013,O00007,F016,Veg Burger with Fries,1,300,g,190.0,0.0,190.0,consumed,1.0,food_id
+I000014,O00008,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000015,O00008,F021,Curd (Dahi),1,150,g,18.0,0.0,18.0,consumed,1.0,food_id
+I000016,O00009,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000017,O00010,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000018,O00010,F021,Curd (Dahi),1,150,g,18.0,0.0,18.0,consumed,1.0,food_id
+I000019,O00011,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000020,O00012,F009,Rajma Brown Rice Bowl,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I000021,O00013,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000022,O00014,F011,Chole Bhature,1,350,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000023,O00015,F004,Paneer Butter Masala w/ 2 Roti,1,400,g,240.0,0.0,240.0,consumed,1.0,food_id
+I000024,O00016,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000025,O00017,F013,Veg Hakka Noodles,1,350,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000026,O00018,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000027,O00018,F021,Curd (Dahi),1,150,g,18.02,0.0,18.02,consumed,1.0,food_id
+I000028,O00019,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000029,O00020,F009,Rajma Brown Rice Bowl,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I000030,O00020,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000031,O00021,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000032,O00022,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000033,O00022,F021,Curd (Dahi),1,150,g,18.02,0.0,18.02,consumed,1.0,food_id
+I000034,O00023,F021,Curd (Dahi),1,500,g,60.05,0.0,60.05,unknown,,food_id
+I000035,O00023,F022,Banana,6,120,g,6.0,0.0,36.0,unknown,,food_id
+I000036,O00023,F023,Boiled Eggs,1,600,g,84.06,0.0,84.06,unknown,,food_id
+I000037,O00023,F025,Apple,1,1000,g,200.2,0.0,200.2,unknown,,food_id
+I000038,O00024,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000039,O00025,F036,Veg Sandwich,1,180,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000040,O00026,F012,Egg Curry with 2 Roti,1,380,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000041,O00027,F022,Banana,1,120,g,6.01,0.0,6.01,consumed,1.0,food_id
+I000042,O00027,F023,Boiled Eggs,1,100,g,14.02,0.0,14.02,consumed,1.0,food_id
+I000043,O00028,F037,Buttermilk (Chaas),1,250,ml,30.0,0.0,30.0,consumed,1.0,food_id
+I000044,O00029,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000045,O00029,F021,Curd (Dahi),1,150,g,18.02,0.0,18.02,consumed,1.0,food_id
+I000046,O00030,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000047,O00031,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000048,O00032,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000049,O00033,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000050,O00034,F026,Mixed Nuts,1,30,g,30.05,0.0,30.05,consumed,1.0,food_id
+I000051,O00035,F027,"home dal, rice and sabzi thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000052,O00036,F001,MASALA DOSA,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000053,O00037,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000054,O00037,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000055,O00038,F008,Grilled Chicken Salad Bowl,1,350,g,280.0,0.0,280.0,consumed,1.0,food_id
+I000056,O00039,F021,Curd (Dahi),1,500,g,60.1,0.0,60.1,unknown,,food_id
+I000057,O00039,F022,Banana,6,120,g,6.01,0.0,36.06,unknown,,food_id
+I000058,O00039,F023,Boiled Eggs,1,600,g,84.18,0.0,84.18,unknown,,food_id
+I000059,O00039,F025,Apple,1,1000,g,200.4,0.0,200.4,unknown,,food_id
+I000060,O00040,F022,Banana,1,120,g,6.01,0.0,6.01,consumed,1.0,food_id
+I000061,O00040,F023,Boiled Eggs,1,100,g,14.03,0.0,14.03,consumed,1.0,food_id
+I000062,O00041,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000063,O00041,F021,Curd (Dahi),1,150,g,18.03,0.0,18.03,consumed,1.0,food_id
+I000064,O00042,F022,Banana,1,120,g,6.01,0.0,6.01,consumed,1.0,food_id
+I000065,O00042,F023,Boiled Eggs,1,100,g,14.03,0.0,14.03,consumed,1.0,food_id
+I000066,O00043,F019,Fish Curry Meal,1,450,g,280.0,0.0,280.0,consumed,1.0,food_id
+I000067,O00044,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000068,O00044,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000069,O00045,F012,Egg Curry with 2 Roti,1,380,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000070,O00046,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000071,O00047,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000072,O00048,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000073,O00048,F021,Curd (Dahi),1,150,g,18.05,0.0,18.05,consumed,1.0,food_id
+I000074,O00049,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000075,O00050,F010,Paneer Tikka Bowl,1,350,g,260.0,0.0,260.0,not_consumed,0.0,food_id
+I000076,O00051,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000077,O00052,F022,Banana,1,120,g,6.01,0.0,6.01,consumed,1.0,food_id
+I000078,O00052,F023,Boiled Eggs,1,100,g,14.03,0.0,14.03,consumed,1.0,food_id
+I000079,O00053,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000080,O00053,F021,Curd (Dahi),1,150,g,18.05,0.0,18.05,consumed,1.0,food_id
+I000081,O00054,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000082,O00054,F021,Curd (Dahi),1,150,g,18.05,0.0,18.05,consumed,1.0,food_id
+I000083,O00055,F021,Curd (Dahi),1,500,g,60.15,0.0,60.15,unknown,,food_id
+I000084,O00055,F022,Banana,6,120,g,6.01,3.61,32.45,unknown,,food_id
+I000085,O00055,F023,Boiled Eggs,1,600,g,84.24,0.0,84.24,unknown,,food_id
+I000086,O00055,F024,Roasted Chana,1,500,g,150.4,15.04,135.36,unknown,,food_id
+I000087,O00055,F025,Apple,1,1000,g,200.5,20.05,180.45,unknown,,food_id
+I000088,O00055,F026,Mixed Nuts,1,250,g,250.65,0.0,250.65,unknown,,food_id
+I000089,O00056,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000090,O00057,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000091,O00058,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000092,O00058,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000093,O00059,F013,Veg Hakka Noodles,1,350,g,180.0,0.0,180.0,not_consumed,0.0,food_id
+I000094,O00060,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000095,O00061,F008,Grilled Chicken Salad Bowl,1,350,g,280.0,0.0,280.0,consumed,1.0,food_id
+I000096,O00062,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000097,O00063,F007,Veg Biryani,1,400,g,200.0,0.0,200.0,consumed,1.0,food_id
+I000098,O00064,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000099,O00064,F021,Curd (Dahi),1,150,g,18.06,0.0,18.06,consumed,1.0,food_id
+I000100,O00065,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000101,O00066,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000102,O00067,F007,Veg Biryani,1,400,g,200.0,0.0,200.0,consumed,1.0,food_id
+I000103,O00068,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000104,O00068,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000105,O00069,F014,Chicken Fried Rice,1,400,g,210.0,0.0,210.0,partially_consumed,0.5,food_id
+I000106,O00070,F021,Curd (Dahi),1,500,g,60.2,0.0,60.2,unknown,,food_id
+I000107,O00070,F022,Banana,6,120,g,6.02,0.0,36.12,unknown,,food_id
+I000108,O00070,F023,Boiled Eggs,1,600,g,84.3,0.0,84.3,unknown,,food_id
+I000109,O00070,F024,Roasted Chana,1,500,g,150.5,0.0,150.5,unknown,,food_id
+I000110,O00071,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000111,O00072,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000112,O00073,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000113,O00074,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000114,O00075,F022,Banana,1,120,g,6.02,0.0,6.02,consumed,1.0,food_id
+I000115,O00075,F023,Boiled Eggs,1,100,g,14.05,0.0,14.05,consumed,1.0,food_id
+I000116,O00076,F006,Chicken Biryani,2,450,g,260.0,0.0,520.0,partially_consumed,0.5,food_id
+I000117,O00077,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000118,O00078,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000119,O00079,F008,Grilled Chicken Salad Bowl,1,350,g,280.0,0.0,280.0,consumed,1.0,food_id
+I000120,O00080,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,not_consumed,0.0,food_id
+I000121,O00080,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,unknown,,food_id
+I000122,O00081,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000123,O00082,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000124,O00083,F004,Paneer Butter Masala with 2 Roti,1,400,g,240.0,0.0,240.0,consumed,1.0,food_id
+I000125,O00084,F022,Banana,1,120,g,6.02,0.0,6.02,consumed,1.0,food_id
+I000126,O00084,F023,Boiled Eggs,1,100,g,14.06,0.0,14.06,consumed,1.0,food_id
+I000127,O00085,F017,Moong Dal Khichdi,1,350,g,120.0,0.0,120.0,not_consumed,0.0,food_id
+I000128,O00086,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000129,O00087,F021,Curd (Dahi),1,500,g,60.25,0.0,60.25,unknown,,food_id
+I000130,O00087,F022,Banana,6,120,g,6.02,0.0,36.12,unknown,,food_id
+I000131,O00087,F023,Boiled Eggs,1,600,g,84.36,0.0,84.36,unknown,,food_id
+I000132,O00087,F026,Mixed Nuts,1,250,g,251.03,0.0,251.03,unknown,,food_id
+I000133,O00088,F001,masala dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000134,O00089,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000135,O00090,F026,Mixed Nuts,1,30,g,30.12,0.0,30.12,consumed,1.0,food_id
+I000136,O00091,F010,Paneer Tikka Bowl,1,350,g,260.0,0.0,260.0,consumed,1.0,food_id
+I000137,O00092,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000138,O00093,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000139,O00094,F014,Chicken Fried Rice,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I000140,O00095,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000141,O00096,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000142,O00097,F006,Chicken Biryani,1,450,g,260.0,0.0,260.0,consumed,1.0,food_id
+I000143,O00098,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000144,O00099,F013,Veg Hakka Noodles,1,350,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000145,O00100,F004,Paneer Butter Masala with 2 Roti,2,400,g,240.0,0.0,480.0,partially_consumed,0.5,food_id
+I000146,O00100,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000147,O00101,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000148,O00102,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000149,O00103,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000150,O00104,F005,Dal Tadka with Jeera Rice,1,400,g,180.0,0.0,180.0,partially_consumed,0.5,food_id
+I000151,O00105,F021,Curd (Dahi),1,500,g,60.3,0.0,60.3,unknown,,food_id
+I000152,O00105,F022,Banana,6,120,g,6.02,0.0,36.12,unknown,,food_id
+I000153,O00105,F023,Boiled Eggs,1,600,g,84.42,0.0,84.42,unknown,,food_id
+I000154,O00106,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000155,O00107,F009,Rajma Brown Rice Bowl,1,400,g,220.0,0.0,220.0,partially_consumed,0.5,food_id
+I000156,O00108,F022,Banana,1,120,g,6.02,0.0,6.02,consumed,1.0,food_id
+I000157,O00109,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000158,O00110,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000159,O00111,F013,Veg Hakka Noodles,1,350,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000160,O00112,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000161,O00113,F022,Banana,1,120,g,6.04,0.0,6.04,consumed,1.0,food_id
+I000162,O00113,F023,Boiled Eggs,1,100,g,14.07,0.0,14.07,consumed,1.0,food_id
+I000163,O00114,F006,Chicken Biryani,1,450,g,260.0,0.0,260.0,consumed,1.0,food_id
+I000164,O00115,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000165,O00116,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000166,O00117,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000167,O00118,F025,Apple,1,150,g,30.16,0.0,30.16,consumed,1.0,food_id
+I000168,O00119,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000169,O00120,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000170,O00121,F012,Egg Curry with 2 Roti,1,380,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000171,O00122,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000172,O00123,F021,Curd (Dahi),1,500,g,60.35,0.0,60.35,unknown,,food_id
+I000173,O00123,F022,Banana,6,120,g,6.04,0.0,36.24,unknown,,food_id
+I000174,O00123,F023,Boiled Eggs,1,600,g,84.48,0.0,84.48,unknown,,food_id
+I000175,O00123,F024,Roasted Chana,1,500,g,150.85,0.0,150.85,unknown,,food_id
+I000176,O00123,F026,Mixed Nuts,1,250,g,251.45,0.0,251.45,unknown,,food_id
+I000177,O00124,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000178,O00125,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I000179,O00125,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000180,O00126,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000181,O00126,F021,Curd (Dahi),1,150,g,18.11,0.0,18.11,consumed,1.0,food_id
+I000182,O00127,F022,Banana,1,120,g,6.04,0.0,6.04,consumed,1.0,food_id
+I000183,O00127,F023,Boiled Eggs,1,100,g,14.08,0.0,14.08,consumed,1.0,food_id
+I000184,O00128,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000185,O00129,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000186,O00130,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000187,O00131,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000188,O00131,F034,Gulab Jamun (2 pcs),1,100,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000189,O00132,F027,Home Dal Rice Sabzi Thali,1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000190,O00133,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000191,O00134,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000192,O00135,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000193,O00136,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000194,O00137,F005,Dal Tadka with Jeera Rice,1,400,g,180.0,0.0,180.0,not_consumed,0.0,food_id
+I000195,O00138,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000196,O00138,F034,Gulab Jamun (2 pcs),1,100,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000197,O00139,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000198,O00140,F021,Curd (Dahi),1,500,g,60.4,0.0,60.4,unknown,,food_id
+I000199,O00140,F022,Banana,6,120,g,6.04,0.0,36.24,unknown,,food_id
+I000200,O00140,F023,Boiled Eggs,1,600,g,84.54,0.0,84.54,unknown,,food_id
+I000201,O00140,F024,Roasted Chana,1,500,g,151.0,0.0,151.0,unknown,,food_id
+I000202,O00141,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000203,O00142,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000204,O00143,F006,Chicken Biryani,1,450,g,260.0,0.0,260.0,consumed,1.0,food_id
+I000205,O00144,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000206,O00145,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000207,O00145,F021,Curd (Dahi),1,150,g,18.12,0.0,18.12,consumed,1.0,food_id
+I000208,O00146,F026,Mixed Nuts,1,30,g,30.2,0.0,30.2,consumed,1.0,food_id
+I000209,O00147,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000210,O00147,F021,Curd (Dahi),1,150,g,18.12,0.0,18.12,consumed,1.0,food_id
+I000211,O00148,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,not_consumed,0.0,food_id
+I000212,O00149,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000213,O00150,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000214,O00150,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000215,O00151,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000216,O00152,F022,Banana,1,120,g,6.05,0.0,6.05,consumed,1.0,food_id
+I000217,O00152,F023,Boiled Eggs,1,100,g,14.1,0.0,14.1,consumed,1.0,food_id
+I000218,O00153,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000219,O00154,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000220,O00154,F034,Gulab Jamun (2 pcs),1,100,g,70.0,0.0,70.0,partially_consumed,0.5,food_id
+I000221,O00155,F016,Veg Burger with Fries,1,300,g,190.0,0.0,190.0,not_consumed,0.0,food_id
+I000222,O00156,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000223,O00157,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000224,O00157,F021,Curd (Dahi),1,150,g,18.14,0.0,18.14,consumed,1.0,food_id
+I000225,O00158,F032,Cold Coffee,1,300,ml,120.0,0.0,120.0,consumed,1.0,food_id
+I000226,O00159,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000227,O00160,F022,Banana,1,120,g,6.05,0.0,6.05,consumed,1.0,food_id
+I000228,O00160,F023,Boiled Eggs,1,100,g,14.1,0.0,14.1,consumed,1.0,food_id
+I000229,O00161,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000230,O00162,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000231,O00162,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000232,O00163,F012,Egg Curry with 2 Roti,1,380,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000233,O00164,F021,Curd (Dahi),1,500,g,60.45,0.0,60.45,unknown,,food_id
+I000234,O00164,F022,Banana,6,120,g,6.05,0.0,36.3,unknown,,food_id
+I000235,O00164,F023,Boiled Eggs,1,600,g,84.66,0.0,84.66,unknown,,food_id
+I000236,O00164,F026,Mixed Nuts,1,250,g,251.9,0.0,251.9,unknown,,food_id
+I000237,O00165,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000238,O00166,F006,Chicken Biryani,1,450,g,260.0,0.0,260.0,unknown,,food_id
+I000239,O00167,F014,Chicken Fried Rice,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I000240,O00168,F001,Masala  Dosa,1,250,g,110.0,0.0,110.0,partially_consumed,0.5,food_id
+I000241,O00169,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000242,O00169,F021,Curd (Dahi),1,150,g,18.14,0.0,18.14,consumed,1.0,food_id
+I000243,O00170,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000244,O00171,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000245,O00172,F001,MASALA DOSA,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000246,O00173,F006,Chicken Biryani,1,450,g,260.0,0.0,260.0,consumed,1.0,food_id
+I000247,O00174,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000248,O00175,F004,Paneer Butter Masala w/ 2 Roti,1,400,g,240.0,0.0,240.0,consumed,1.0,food_id
+I000249,O00176,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000250,O00177,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000251,O00178,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000252,O00178,F021,Curd (Dahi),1,150,g,18.15,0.0,18.15,consumed,1.0,food_id
+I000253,O00179,F024,Roasted Chana,1,40,g,12.1,0.0,12.1,consumed,1.0,food_id
+I000254,O00180,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000255,O00181,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000256,O00182,F004,Paneer Butter Masala w/ 2 Roti,1,400,g,240.0,0.0,240.0,partially_consumed,0.5,food_id
+I000257,O00182,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000258,O00183,F026,Mixed Nuts,1,30,g,30.25,0.0,30.25,consumed,1.0,food_id
+I000259,O00184,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000260,O00185,F021,Curd (Dahi),1,500,g,60.5,0.0,60.5,unknown,,food_id
+I000261,O00185,F022,Banana,6,120,g,6.05,0.0,36.3,unknown,,food_id
+I000262,O00185,F023,Boiled Eggs,1,600,g,84.72,0.0,84.72,unknown,,food_id
+I000263,O00186,F022,Banana,1,120,g,6.05,0.0,6.05,consumed,1.0,food_id
+I000264,O00186,F023,Boiled Eggs,1,100,g,14.12,0.0,14.12,consumed,1.0,food_id
+I000265,O00187,F014,Chicken Fried Rice,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I000266,O00188,F032,Cold Coffee,1,300,ml,120.0,0.0,120.0,consumed,1.0,food_id
+I000267,O00189,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000268,O00190,F005,Dal Tadka with Jeera Rice,1,400,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000269,O00191,F022,Banana,1,120,g,6.05,0.0,6.05,consumed,1.0,food_id
+I000270,O00192,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000271,O00193,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000272,O00194,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000273,O00194,F021,Curd (Dahi),1,150,g,18.16,0.0,18.16,consumed,1.0,food_id
+I000274,O00195,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000275,O00196,F022,Banana,1,120,g,6.06,0.0,6.06,consumed,1.0,food_id
+I000276,O00196,F023,Boiled Eggs,1,100,g,14.13,0.0,14.13,consumed,1.0,food_id
+I000277,O00197,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000278,O00198,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000279,O00199,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000280,O00200,F015,Margherita Pizza (half medium),1,250,g,220.0,0.0,220.0,consumed,1.0,food_id
+I000281,O00201,F037,Buttermilk (Chaas),1,250,ml,30.0,0.0,30.0,consumed,1.0,food_id
+I000282,O00202,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000283,O00203,F021,Curd (Dahi),1,500,g,60.55,0.0,60.55,unknown,,food_id
+I000284,O00203,F022,Banana,6,120,g,6.06,3.64,32.72,unknown,,food_id
+I000285,O00203,F023,Boiled Eggs,1,600,g,84.78,0.0,84.78,unknown,,food_id
+I000286,O00203,F024,Roasted Chana,1,500,g,151.4,0.0,151.4,unknown,,food_id
+I000287,O00203,F025,Apple,1,1000,g,201.9,0.0,201.9,unknown,,food_id
+I000288,O00203,F026,Mixed Nuts,1,250,g,252.35,0.0,252.35,unknown,,food_id
+I000289,O00204,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000290,O00205,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000291,O00206,F022,Banana,1,120,g,6.06,0.0,6.06,consumed,1.0,food_id
+I000292,O00206,F023,Boiled Eggs,1,100,g,14.13,0.0,14.13,consumed,1.0,food_id
+I000293,O00207,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000294,O00208,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I000295,O00208,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000296,O00209,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000297,O00209,F021,Curd (Dahi),1,150,g,18.16,0.0,18.16,consumed,1.0,food_id
+I000298,O00210,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000299,O00211,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000300,O00211,F021,Curd (Dahi),1,150,g,18.18,0.0,18.18,consumed,1.0,food_id
+I000301,O00212,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000302,O00212,F021,Curd (Dahi),1,150,g,18.18,0.0,18.18,consumed,1.0,food_id
+I000303,O00213,F001,masala dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000304,O00214,F013,Veg Hakka Noodles,1,350,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000305,O00215,F022,Banana,1,120,g,6.06,0.0,6.06,consumed,1.0,food_id
+I000306,O00216,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000307,O00217,F021,Curd (Dahi),1,500,g,60.6,0.0,60.6,unknown,,food_id
+I000308,O00217,F022,Banana,6,120,g,6.06,0.0,36.36,unknown,,food_id
+I000309,O00217,F023,Boiled Eggs,1,600,g,84.84,0.0,84.84,unknown,,food_id
+I000310,O00217,F024,Roasted Chana,1,500,g,151.5,0.0,151.5,unknown,,food_id
+I000311,O00217,F025,Apple,1,1000,g,202.0,0.0,202.0,unknown,,food_id
+I000312,O00217,F026,Mixed Nuts,1,250,g,252.5,0.0,252.5,unknown,,food_id
+I000313,O00218,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000314,O00219,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000315,O00220,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000316,O00221,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000317,O00222,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000318,O00223,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000319,O00223,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000320,O00224,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000321,O00224,F021,Curd (Dahi),1,150,g,18.18,0.0,18.18,consumed,1.0,food_id
+I000322,O00225,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000323,O00226,F004,Paneer Butter Masala with 2 Roti,1,400,g,240.0,0.0,240.0,consumed,1.0,food_id
+I000324,O00227,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000325,O00228,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000326,O00229,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000327,O00230,F015,Margherita Pizza (half medium),1,250,g,220.0,0.0,220.0,consumed,1.0,food_id
+I000328,O00231,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000329,O00232,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000330,O00233,F017,Moong Dal Khichdi,1,350,g,120.0,0.0,120.0,consumed,1.0,food_id
+I000331,O00234,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000332,O00235,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000333,O00235,F021,Curd (Dahi),1,150,g,18.2,0.0,18.2,consumed,1.0,food_id
+I000334,O00236,F021,Curd (Dahi),1,500,g,60.65,0.0,60.65,unknown,,food_id
+I000335,O00236,F022,Banana,6,120,g,6.06,0.0,36.36,unknown,,food_id
+I000336,O00236,F023,Boiled Eggs,1,600,g,84.9,0.0,84.9,unknown,,food_id
+I000337,O00236,F024,Roasted Chana,1,500,g,151.65,0.0,151.65,unknown,,food_id
+I000338,O00236,F026,Mixed Nuts,1,250,g,252.7,0.0,252.7,unknown,,food_id
+I000339,O00237,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000340,O00237,F021,Curd (Dahi),1,150,g,18.2,0.0,18.2,consumed,1.0,food_id
+I000341,O00238,F025,Apple,1,150,g,30.33,0.0,30.33,consumed,1.0,food_id
+I000342,O00239,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000343,O00239,F021,Curd (Dahi),1,150,g,18.2,0.0,18.2,consumed,1.0,food_id
+I000344,O00240,F022,Banana,1,120,g,6.07,0.0,6.07,consumed,1.0,food_id
+I000345,O00240,F023,Boiled Eggs,1,100,g,14.15,0.0,14.15,consumed,1.0,food_id
+I000346,O00241,F007,Veg Biryani,1,400,g,200.0,0.0,200.0,consumed,1.0,food_id
+I000347,O00242,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000348,O00243,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000349,O00244,F027,"home dal, rice and sabzi thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000350,O00244,F021,Curd (Dahi),1,150,g,18.2,0.0,18.2,consumed,1.0,food_id
+I000351,O00245,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000352,O00246,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000353,O00247,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000354,O00248,F024,Roasted Chana,1,40,g,12.14,0.0,12.14,consumed,1.0,food_id
+I000355,O00249,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000356,O00250,F012,Egg Curry with 2 Roti,1,380,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000357,O00251,F037,Buttermilk (Chaas),1,250,ml,30.0,0.0,30.0,consumed,1.0,food_id
+I000358,O00252,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000359,O00253,F021,Curd (Dahi),1,500,g,60.7,0.0,60.7,unknown,,food_id
+I000360,O00253,F022,Banana,6,120,g,6.07,0.0,36.42,unknown,,food_id
+I000361,O00253,F023,Boiled Eggs,1,600,g,84.96,0.0,84.96,unknown,,food_id
+I000362,O00253,F024,Roasted Chana,1,500,g,151.75,0.0,151.75,unknown,,food_id
+I000363,O00254,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000364,O00255,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000365,O00256,F013,veg hakka noodles,1,350,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000366,O00257,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000367,O00258,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000368,O00258,F021,Curd (Dahi),1,150,g,18.21,0.0,18.21,consumed,1.0,food_id
+I000369,O00259,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000370,O00260,F022,Banana,1,120,g,6.07,0.0,6.07,consumed,1.0,food_id
+I000371,O00260,F023,Boiled Eggs,1,100,g,14.17,0.0,14.17,consumed,1.0,food_id
+I000372,O00261,F037,Buttermilk (Chaas),1,250,ml,30.0,0.0,30.0,consumed,1.0,food_id
+I000373,O00262,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000374,O00263,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000375,O00264,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,partially_consumed,0.5,food_id
+I000376,O00264,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000377,O00265,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000378,O00266,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000379,O00267,F013,veg hakka noodles,2,350,g,180.0,0.0,360.0,partially_consumed,0.5,food_id
+I000380,O00268,F013,Veg Hakka Noodles,1,350,g,180.0,0.0,180.0,consumed,1.0,food_id
+I000381,O00269,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000382,O00270,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000383,O00270,F021,Curd (Dahi),1,150,g,18.23,0.0,18.23,consumed,1.0,food_id
+I000384,O00271,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000385,O00271,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,partially_consumed,0.5,food_id
+I000386,O00272,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000387,O00272,F021,Curd (Dahi),1,150,g,18.23,0.0,18.23,consumed,1.0,food_id
+I000388,O00273,F021,Curd (Dahi),1,500,g,60.75,0.0,60.75,unknown,,food_id
+I000389,O00273,F022,Banana,6,120,g,6.07,0.0,36.42,unknown,,food_id
+I000390,O00273,F023,Boiled Eggs,1,600,g,85.08,0.0,85.08,unknown,,food_id
+I000391,O00273,F024,Roasted Chana,1,500,g,151.9,0.0,151.9,unknown,,food_id
+I000392,O00274,F009,Rajma Brown Rice Bowl,1,400,g,225.0,0.0,225.0,consumed,1.0,food_id
+I000393,O00275,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000394,O00276,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000395,O00277,F027,Home Dal Rice Sabzi Thali,1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000396,O00278,F010,Paneer Tikka Bowl,1,350,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000397,O00279,F022,Banana,1,120,g,6.07,0.0,6.07,consumed,1.0,food_id
+I000398,O00279,F023,Boiled Eggs,1,100,g,14.18,0.0,14.18,consumed,1.0,food_id
+I000399,O00280,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,partially_consumed,0.5,food_id
+I000400,O00281,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000401,O00282,F022,Banana,1,120,g,6.08,0.0,6.08,consumed,1.0,food_id
+I000402,O00282,F023,Boiled Eggs,1,100,g,14.18,0.0,14.18,consumed,1.0,food_id
+I000403,O00283,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000404,O00284,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000405,O00285,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000406,O00286,F021,Curd (Dahi),1,500,g,60.8,0.0,60.8,unknown,,food_id
+I000407,O00286,F022,Banana,6,120,g,6.08,0.0,36.48,unknown,,food_id
+I000408,O00286,F023,Boiled Eggs,1,600,g,85.14,0.0,85.14,unknown,,food_id
+I000409,O00286,F024,Roasted Chana,1,500,g,152.0,0.0,152.0,unknown,,food_id
+I000410,O00286,F026,Mixed Nuts,1,250,g,253.32,0.0,253.32,unknown,,food_id
+I000411,O00287,F022,Banana,1,120,g,6.08,0.0,6.08,consumed,1.0,food_id
+I000412,O00287,F023,Boiled Eggs,1,100,g,14.19,0.0,14.19,consumed,1.0,food_id
+I000413,O00288,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000414,O00289,F025,Apple,1,150,g,30.41,0.0,30.41,consumed,1.0,food_id
+I000415,O00290,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000416,O00291,F022,Banana,1,120,g,6.08,0.0,6.08,consumed,1.0,food_id
+I000417,O00291,F023,Boiled Eggs,1,100,g,14.19,0.0,14.19,consumed,1.0,food_id
+I000418,O00292,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000419,O00293,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000420,O00293,F021,Curd (Dahi),1,150,g,18.24,0.0,18.24,consumed,1.0,food_id
+I000421,O00294,F022,Banana,1,120,g,6.08,0.0,6.08,consumed,1.0,food_id
+I000422,O00294,F023,Boiled Eggs,1,100,g,14.19,0.0,14.19,consumed,1.0,food_id
+I000423,O00295,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000424,O00296,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000425,O00296,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,unknown,,food_id
+I000426,O00297,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000427,O00298,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000428,O00299,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000429,O00300,F026,Mixed Nuts,1,30,g,30.41,0.0,30.41,consumed,1.0,food_id
+I000430,O00301,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000431,O00301,F021,Curd (Dahi),1,150,g,18.25,0.0,18.25,consumed,1.0,food_id
+I000432,O00302,F020,Poha,1,200,g,60.0,0.0,60.0,partially_consumed,0.5,food_id
+I000433,O00303,F015,Margherita Pizza (half medium),1,250,g,225.0,0.0,225.0,consumed,1.0,food_id
+I000434,O00304,F024,Roasted Chana,1,40,g,12.17,0.0,12.17,consumed,1.0,food_id
+I000435,O00305,F021,Curd (Dahi),1,500,g,60.85,0.0,60.85,unknown,,food_id
+I000436,O00305,F022,Banana,6,120,g,6.08,0.0,36.48,unknown,,food_id
+I000437,O00305,F023,Boiled Eggs,1,600,g,85.2,0.0,85.2,unknown,,food_id
+I000438,O00305,F024,Roasted Chana,1,500,g,152.1,0.0,152.1,unknown,,food_id
+I000439,O00305,F026,Mixed Nuts,1,250,g,253.53,0.0,253.53,unknown,,food_id
+I000440,O00306,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000441,O00307,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000442,O00307,F021,Curd (Dahi),1,150,g,18.25,0.0,18.25,consumed,1.0,food_id
+I000443,O00308,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000444,O00309,F022,Banana,1,120,g,6.08,0.0,6.08,consumed,1.0,food_id
+I000445,O00309,F023,Boiled Eggs,1,100,g,14.2,0.0,14.2,consumed,1.0,food_id
+I000446,O00310,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000447,O00311,F022,Banana,1,120,g,6.08,0.0,6.08,consumed,1.0,food_id
+I000448,O00312,F012,Egg Curry with 2 Roti,1,380,g,170.0,0.0,170.0,consumed,1.0,food_id
+I000449,O00313,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000450,O00314,F004,paneer butter masala with 2 roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000451,O00315,F036,Veg Sandwich,1,180,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000452,O00316,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000453,O00316,F021,Curd (Dahi),1,150,g,18.25,0.0,18.25,consumed,1.0,food_id
+I000454,O00317,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000455,O00318,F036,Veg Sandwich,1,180,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000456,O00319,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,consumed,1.0,food_id
+I000457,O00320,F013,Veg Hakka Noodles,1,350,g,185.0,0.0,185.0,partially_consumed,0.5,food_id
+I000458,O00321,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000459,O00322,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000460,O00323,F021,Curd (Dahi),1,500,g,60.9,6.09,54.81,unknown,,food_id
+I000461,O00323,F022,Banana,6,120,g,6.08,0.0,36.48,unknown,,food_id
+I000462,O00323,F023,Boiled Eggs,1,600,g,85.26,0.0,85.26,unknown,,food_id
+I000463,O00323,F024,Roasted Chana,1,500,g,152.25,0.0,152.25,unknown,,food_id
+I000464,O00323,F025,Apple,1,1000,g,203.0,0.0,203.0,unknown,,food_id
+I000465,O00324,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000466,O00325,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000467,O00326,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000468,O00326,F021,Curd (Dahi),1,150,g,18.27,0.0,18.27,consumed,1.0,food_id
+I000469,O00327,F004,Paneer Butter Masala with 2 Roti,2,400,g,245.0,0.0,490.0,partially_consumed,0.5,food_id
+I000470,O00328,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000471,O00329,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000472,O00330,F032,Cold Coffee,1,300,ml,120.0,0.0,120.0,consumed,1.0,food_id
+I000473,O00331,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000474,O00332,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000475,O00333,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000476,O00334,F025,Apple,1,150,g,30.46,0.0,30.46,consumed,1.0,food_id
+I000477,O00335,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000478,O00336,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000479,O00337,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,consumed,1.0,food_id
+I000480,O00338,F035,Fresh Lime Soda,1,300,ml,60.0,0.0,60.0,consumed,1.0,food_id
+I000481,O00339,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000482,O00340,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,partially_consumed,0.5,food_id
+I000483,O00341,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000484,O00341,F021,Curd (Dahi),1,150,g,18.29,0.0,18.29,consumed,1.0,food_id
+I000485,O00342,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000486,O00342,F034,Gulab Jamun (2 pcs),1,100,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000487,O00343,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000488,O00344,F021,Curd (Dahi),1,500,g,60.95,0.0,60.95,unknown,,food_id
+I000489,O00344,F022,Banana,6,120,g,6.1,0.0,36.6,unknown,,food_id
+I000490,O00344,F023,Boiled Eggs,1,600,g,85.32,0.0,85.32,unknown,,food_id
+I000491,O00344,F024,Roasted Chana,1,500,g,152.4,0.0,152.4,unknown,,food_id
+I000492,O00344,F025,Apple,1,1000,g,203.2,0.0,203.2,unknown,,food_id
+I000493,O00344,F026,Mixed Nuts,1,250,g,253.97,0.0,253.97,unknown,,food_id
+I000494,O00345,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000495,O00346,F004,Paneer Butter Masala w/ 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000496,O00346,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000497,O00347,F006,Chicken Biryani,2,450,g,265.0,0.0,530.0,partially_consumed,0.5,food_id
+I000498,O00348,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000499,O00349,F022,Banana,1,120,g,6.1,0.0,6.1,consumed,1.0,food_id
+I000500,O00349,F023,Boiled Eggs,1,100,g,14.23,0.0,14.23,consumed,1.0,food_id
+I000501,O00350,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000502,O00351,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000503,O00352,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000504,O00353,F022,Banana,1,120,g,6.1,0.0,6.1,consumed,1.0,food_id
+I000505,O00353,F023,Boiled Eggs,1,100,g,14.23,0.0,14.23,consumed,1.0,food_id
+I000506,O00354,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,partially_consumed,0.5,food_id
+I000507,O00355,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000508,O00355,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,partially_consumed,0.5,food_id
+I000509,O00356,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000510,O00357,F021,Curd (Dahi),1,500,g,61.0,0.0,61.0,unknown,,food_id
+I000511,O00357,F022,Banana,6,120,g,6.1,0.0,36.6,unknown,,food_id
+I000512,O00357,F023,Boiled Eggs,1,600,g,85.38,0.0,85.38,unknown,,food_id
+I000513,O00357,F026,Mixed Nuts,1,250,g,254.2,0.0,254.2,unknown,,food_id
+I000514,O00358,F022,Banana,1,120,g,6.1,0.0,6.1,consumed,1.0,food_id
+I000515,O00358,F023,Boiled Eggs,1,100,g,14.23,0.0,14.23,consumed,1.0,food_id
+I000516,O00359,F015,Margherita Pizza (half medium),1,250,g,225.0,0.0,225.0,consumed,1.0,food_id
+I000517,O00360,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000518,O00361,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000519,O00362,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000520,O00363,F008,Grilled Chicken Salad Bowl,2,350,g,285.0,0.0,570.0,partially_consumed,0.5,food_id
+I000521,O00364,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,consumed,1.0,food_id
+I000522,O00365,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000523,O00366,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000524,O00367,F010,Paneer Tikka Bowl,1,350,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000525,O00367,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000526,O00368,F022,Banana,1,120,g,6.11,0.0,6.11,consumed,1.0,food_id
+I000527,O00368,F023,Boiled Eggs,1,100,g,14.24,0.0,14.24,consumed,1.0,food_id
+I000528,O00369,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,partially_consumed,0.5,food_id
+I000529,O00370,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000530,O00371,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000531,O00372,F022,Banana,1,120,g,6.11,0.0,6.11,consumed,1.0,food_id
+I000532,O00372,F023,Boiled Eggs,1,100,g,14.24,0.0,14.24,consumed,1.0,food_id
+I000533,O00373,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000534,O00373,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000535,O00374,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000536,O00375,F021,Curd (Dahi),1,500,g,61.05,0.0,61.05,unknown,,food_id
+I000537,O00375,F022,Banana,6,120,g,6.11,0.0,36.66,unknown,,food_id
+I000538,O00375,F023,Boiled Eggs,1,600,g,85.5,0.0,85.5,unknown,,food_id
+I000539,O00375,F026,Mixed Nuts,1,250,g,254.4,0.0,254.4,unknown,,food_id
+I000540,O00376,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000541,O00377,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000542,O00378,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,unknown,,food_id
+I000543,O00379,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000544,O00380,F022,Banana,1,120,g,6.11,0.0,6.11,consumed,1.0,food_id
+I000545,O00380,F023,Boiled Eggs,1,100,g,14.25,0.0,14.25,consumed,1.0,food_id
+I000546,O00381,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000547,O00382,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000548,O00382,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000549,O00383,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000550,O00384,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000551,O00385,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,consumed,1.0,food_id
+I000552,O00386,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000553,O00387,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000554,O00388,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000555,O00388,F021,Curd (Dahi),1,150,g,18.33,0.0,18.33,consumed,1.0,food_id
+I000556,O00389,F021,Curd (Dahi),1,500,g,61.1,0.0,61.1,unknown,,food_id
+I000557,O00389,F022,Banana,6,120,g,6.11,0.0,36.66,unknown,,food_id
+I000558,O00389,F023,Boiled Eggs,1,600,g,85.56,0.0,85.56,unknown,,food_id
+I000559,O00390,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000560,O00391,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000561,O00392,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000562,O00392,F034,Gulab Jamun (2 pcs),1,100,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000563,O00393,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000564,O00394,F022,Banana,1,120,g,6.11,0.0,6.11,consumed,1.0,food_id
+I000565,O00394,F023,Boiled Eggs,1,100,g,14.26,0.0,14.26,consumed,1.0,food_id
+I000566,O00395,F027,"home dal, rice and sabzi thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000567,O00395,F021,Curd (Dahi),1,150,g,18.33,0.0,18.33,consumed,1.0,food_id
+I000568,O00396,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000569,O00397,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000570,O00397,F021,Curd (Dahi),1,150,g,18.33,0.0,18.33,consumed,1.0,food_id
+I000571,O00398,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000572,O00398,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000573,O00399,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000574,O00399,F021,Curd (Dahi),1,150,g,18.33,0.0,18.33,consumed,1.0,food_id
+I000575,O00400,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000576,O00401,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,not_consumed,0.0,food_id
+I000577,O00402,F024,Roasted Chana,1,40,g,12.22,0.0,12.22,consumed,1.0,food_id
+I000578,O00403,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000579,O00404,F021,Curd (Dahi),1,500,g,61.15,0.0,61.15,unknown,,food_id
+I000580,O00404,F022,Banana,6,120,g,6.11,0.0,36.66,unknown,,food_id
+I000581,O00404,F023,Boiled Eggs,1,600,g,85.56,0.0,85.56,unknown,,food_id
+I000582,O00404,F025,Apple,1,1000,g,203.8,0.0,203.8,unknown,,food_id
+I000583,O00405,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000584,O00406,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000585,O00406,F021,Curd (Dahi),1,150,g,18.34,0.0,18.34,consumed,1.0,food_id
+I000586,O00407,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000587,O00408,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000588,O00409,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000589,O00410,F036,Veg Sandwich,1,180,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000590,O00411,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000591,O00412,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000592,O00413,F013,Veg. Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000593,O00414,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000594,O00415,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,partially_consumed,0.5,food_id
+I000595,O00416,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000596,O00417,F001,Masala Dosa,1,250,g,110.0,0.0,110.0,consumed,1.0,food_id
+I000597,O00418,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000598,O00419,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000599,O00420,F021,Curd (Dahi),1,500,g,61.15,0.0,61.15,unknown,,food_id
+I000600,O00420,F022,Banana,6,120,g,6.12,0.0,36.72,unknown,,food_id
+I000601,O00420,F023,Boiled Eggs,1,600,g,85.62,0.0,85.62,unknown,,food_id
+I000602,O00421,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000603,O00422,F008,Grilled Chicken Salad Bowl,1,350,g,285.0,0.0,285.0,consumed,1.0,food_id
+I000604,O00423,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000605,O00424,F022,Banana,1,120,g,6.12,0.0,6.12,consumed,1.0,food_id
+I000606,O00424,F023,Boiled Eggs,1,100,g,14.28,0.0,14.28,consumed,1.0,food_id
+I000607,O00425,F013,Veg Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000608,O00426,F025,Apple,1,150,g,30.59,0.0,30.59,consumed,1.0,food_id
+I000609,O00427,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000610,O00428,F022,Banana,1,120,g,6.12,0.0,6.12,consumed,1.0,food_id
+I000611,O00428,F023,Boiled Eggs,1,100,g,14.28,0.0,14.28,consumed,1.0,food_id
+I000612,O00429,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000613,O00430,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000614,O00431,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000615,O00432,F022,Banana,1,120,g,6.12,0.0,6.12,consumed,1.0,food_id
+I000616,O00432,F023,Boiled Eggs,1,100,g,14.28,0.0,14.28,consumed,1.0,food_id
+I000617,O00433,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000618,O00433,F021,Curd (Dahi),1,150,g,18.36,0.0,18.36,consumed,1.0,food_id
+I000619,O00434,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000620,O00435,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000621,O00435,F021,Curd (Dahi),1,150,g,18.36,0.0,18.36,consumed,1.0,food_id
+I000622,O00436,F022,Banana,1,120,g,6.12,0.0,6.12,consumed,1.0,food_id
+I000623,O00436,F023,Boiled Eggs,1,100,g,14.28,0.0,14.28,consumed,1.0,food_id
+I000624,O00437,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000625,O00438,F003,Ven Pongal,1,250,g,90.0,0.0,90.0,partially_consumed,0.5,food_id
+I000626,O00439,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000627,O00439,F021,Curd (Dahi),1,150,g,18.36,0.0,18.36,consumed,1.0,food_id
+I000628,O00440,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000629,O00441,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000630,O00442,F021,Curd (Dahi),1,500,g,61.25,0.0,61.25,unknown,,food_id
+I000631,O00442,F022,Banana,6,120,g,6.12,0.0,36.72,unknown,,food_id
+I000632,O00442,F023,Boiled Eggs,1,600,g,85.74,0.0,85.74,unknown,,food_id
+I000633,O00442,F024,Roasted Chana,1,500,g,153.1,15.31,137.79,unknown,,food_id
+I000634,O00443,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000635,O00444,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000636,O00445,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000637,O00446,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000638,O00447,F013,Veg Hakka Noodles,1,350,g,185.0,0.0,185.0,not_consumed,0.0,food_id
+I000639,O00448,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000640,O00449,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000641,O00449,F021,Curd (Dahi),1,150,g,18.38,0.0,18.38,consumed,1.0,food_id
+I000642,O00450,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000643,O00451,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000644,O00451,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000645,O00452,F024,Roasted Chana,1,40,g,12.25,0.0,12.25,consumed,1.0,food_id
+I000646,O00453,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000647,O00453,F021,Curd (Dahi),1,150,g,18.38,0.0,18.38,consumed,1.0,food_id
+I000648,O00454,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000649,O00455,F036,Veg Sandwich,1,180,g,90.0,0.0,90.0,consumed,1.0,food_id
+I000650,O00456,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000651,O00457,F022,Banana,1,120,g,6.13,0.0,6.13,consumed,1.0,food_id
+I000652,O00457,F023,Boiled Eggs,1,100,g,14.3,0.0,14.3,consumed,1.0,food_id
+I000653,O00458,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000654,O00459,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000655,O00460,F015,Margherita Pizza (half medium),2,250,g,225.0,0.0,450.0,partially_consumed,0.5,food_id
+I000656,O00461,F021,Curd (Dahi),1,500,g,61.3,0.0,61.3,unknown,,food_id
+I000657,O00461,F022,Banana,6,120,g,6.13,0.0,36.78,unknown,,food_id
+I000658,O00461,F023,Boiled Eggs,1,600,g,85.8,0.0,85.8,unknown,,food_id
+I000659,O00461,F025,Apple,1,1000,g,204.3,0.0,204.3,unknown,,food_id
+I000660,O00461,F026,Mixed Nuts,1,250,g,255.35,0.0,255.35,unknown,,food_id
+I000661,O00462,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000662,O00463,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000663,O00464,F022,Banana,1,120,g,6.13,0.0,6.13,consumed,1.0,food_id
+I000664,O00464,F023,Boiled Eggs,1,100,g,14.3,0.0,14.3,consumed,1.0,food_id
+I000665,O00465,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000666,O00466,F026,Mixed Nuts,1,30,g,30.64,0.0,30.64,consumed,1.0,food_id
+I000667,O00467,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000668,O00468,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000669,O00469,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000670,O00470,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,not_consumed,0.0,food_id
+I000671,O00471,F015,Margherita Pizza (half medium),1,250,g,225.0,0.0,225.0,consumed,1.0,food_id
+I000672,O00472,F021,Curd (Dahi),1,500,g,61.35,0.0,61.35,unknown,,food_id
+I000673,O00472,F022,Banana,6,120,g,6.13,0.0,36.78,unknown,,food_id
+I000674,O00472,F023,Boiled Eggs,1,600,g,85.86,0.0,85.86,unknown,,food_id
+I000675,O00472,F025,Apple,1,1000,g,204.4,0.0,204.4,unknown,,food_id
+I000676,O00472,F026,Mixed Nuts,1,250,g,255.55,0.0,255.55,unknown,,food_id
+I000677,O00473,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000678,O00474,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I000679,O00475,F013,Veg. Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000680,O00476,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000681,O00477,F004,Paneer Butter Masala with 2 Roti,2,400,g,245.0,0.0,490.0,partially_consumed,0.5,food_id
+I000682,O00478,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000683,O00479,F021,Curd (Dahi),1,500,g,61.5,0.0,61.5,unknown,,food_id
+I000684,O00479,F022,Banana,6,120,g,6.16,0.0,36.96,unknown,,food_id
+I000685,O00479,F023,Boiled Eggs,1,600,g,86.1,0.0,86.1,unknown,,food_id
+I000686,O00479,F024,Roasted Chana,1,500,g,153.8,0.0,153.8,unknown,,food_id
+I000687,O00479,F026,Mixed Nuts,1,250,g,256.32,0.0,256.32,unknown,,food_id
+I000688,O00480,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000689,O00481,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,consumed,1.0,food_id
+I000690,O00482,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I000691,O00483,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,unknown,,food_id
+I000692,O00484,F022,Banana,1,120,g,6.16,0.0,6.16,consumed,1.0,food_id
+I000693,O00484,F023,Boiled Eggs,1,100,g,14.36,0.0,14.36,consumed,1.0,food_id
+I000694,O00485,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000695,O00486,F026,Mixed Nuts,1,30,g,30.77,0.0,30.77,consumed,1.0,food_id
+I000696,O00487,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000697,O00488,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000698,O00489,F015,Margherita Pizza (half medium),1,250,g,225.0,0.0,225.0,partially_consumed,0.5,food_id
+I000699,O00490,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000700,O00491,F022,Banana,1,120,g,6.16,0.0,6.16,consumed,1.0,food_id
+I000701,O00491,F023,Boiled Eggs,1,100,g,14.36,0.0,14.36,consumed,1.0,food_id
+I000702,O00492,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000703,O00493,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000704,O00494,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I000705,O00495,F001,MASALA DOSA,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I000706,O00496,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000707,O00497,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000708,O00498,F021,Curd (Dahi),1,500,g,61.55,0.0,61.55,unknown,,food_id
+I000709,O00498,F022,Banana,6,120,g,6.16,0.0,36.96,unknown,,food_id
+I000710,O00498,F023,Boiled Eggs,1,600,g,86.22,0.0,86.22,unknown,,food_id
+I000711,O00498,F025,Apple,1,1000,g,205.2,0.0,205.2,unknown,,food_id
+I000712,O00499,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000713,O00500,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000714,O00501,F022,Banana,1,120,g,6.16,0.0,6.16,consumed,1.0,food_id
+I000715,O00501,F023,Boiled Eggs,1,100,g,14.37,0.0,14.37,consumed,1.0,food_id
+I000716,O00502,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000717,O00503,F013,veg hakka noodles,2,350,g,185.0,0.0,370.0,partially_consumed,0.5,food_id
+I000718,O00504,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000719,O00505,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000720,O00506,F035,Fresh Lime Soda,1,300,ml,60.0,0.0,60.0,consumed,1.0,food_id
+I000721,O00507,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I000722,O00508,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000723,O00509,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I000724,O00509,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000725,O00510,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,partially_consumed,0.5,food_id
+I000726,O00511,F022,Banana,1,120,g,6.16,0.0,6.16,consumed,1.0,food_id
+I000727,O00511,F023,Boiled Eggs,1,100,g,14.38,0.0,14.38,consumed,1.0,food_id
+I000728,O00512,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000729,O00512,F021,Curd (Dahi),1,150,g,18.48,0.0,18.48,consumed,1.0,food_id
+I000730,O00513,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000731,O00514,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000732,O00515,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000733,O00516,F025,Apple,1,150,g,30.81,0.0,30.81,consumed,1.0,food_id
+I000734,O00517,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000735,O00518,F021,Curd (Dahi),1,500,g,61.65,6.17,55.48,unknown,,food_id
+I000736,O00518,F022,Banana,6,120,g,6.17,3.7,33.32,unknown,,food_id
+I000737,O00518,F023,Boiled Eggs,1,600,g,86.28,8.63,77.65,unknown,,food_id
+I000738,O00519,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000739,O00520,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,consumed,1.0,food_id
+I000740,O00521,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000741,O00522,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000742,O00523,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000743,O00524,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000744,O00525,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,unknown,,food_id
+I000745,O00526,F004,Paneer Butter Masala with 2 Roti,2,400,g,245.0,0.0,490.0,partially_consumed,0.5,food_id
+I000746,O00527,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000747,O00528,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000748,O00529,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000749,O00529,F021,Curd (Dahi),1,150,g,18.5,0.0,18.5,consumed,1.0,food_id
+I000750,O00530,F026,Mixed Nuts,1,30,g,30.83,0.0,30.83,consumed,1.0,food_id
+I000751,O00531,F008,Grilled Chicken Salad Bowl,1,350,g,290.0,0.0,290.0,consumed,1.0,food_id
+I000752,O00531,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000753,O00532,F022,Banana,1,120,g,6.17,0.0,6.17,consumed,1.0,food_id
+I000754,O00532,F023,Boiled Eggs,1,100,g,14.39,0.0,14.39,consumed,1.0,food_id
+I000755,O00533,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000756,O00534,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000757,O00534,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000758,O00535,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000759,O00535,F021,Curd (Dahi),1,150,g,18.5,0.0,18.5,consumed,1.0,food_id
+I000760,O00536,F021,Curd (Dahi),1,500,g,61.7,0.0,61.7,unknown,,food_id
+I000761,O00536,F022,Banana,6,120,g,6.17,0.0,37.02,unknown,,food_id
+I000762,O00536,F023,Boiled Eggs,1,600,g,86.34,0.0,86.34,unknown,,food_id
+I000763,O00536,F024,Roasted Chana,1,500,g,154.2,0.0,154.2,unknown,,food_id
+I000764,O00537,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,unknown,,food_id
+I000765,O00538,F006,Chicken Biryani,1,450,g,265.0,0.0,265.0,partially_consumed,0.5,food_id
+I000766,O00539,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000767,O00540,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000768,O00541,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000769,O00541,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000770,O00542,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000771,O00543,F022,Banana,1,120,g,6.17,0.0,6.17,consumed,1.0,food_id
+I000772,O00543,F023,Boiled Eggs,1,100,g,14.4,0.0,14.4,consumed,1.0,food_id
+I000773,O00544,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000774,O00545,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I000775,O00546,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000776,O00547,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000777,O00548,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000778,O00549,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I000779,O00550,F021,Curd (Dahi),1,500,g,61.7,0.0,61.7,unknown,,food_id
+I000780,O00550,F022,Banana,6,120,g,6.17,0.0,37.02,unknown,,food_id
+I000781,O00550,F023,Boiled Eggs,1,600,g,86.4,0.0,86.4,unknown,,food_id
+I000782,O00550,F025,Apple,1,1000,g,205.7,0.0,205.7,unknown,,food_id
+I000783,O00551,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I000784,O00552,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,consumed,1.0,food_id
+I000785,O00553,F015,Margherita Pizza (half medium),1,250,g,225.0,0.0,225.0,consumed,1.0,food_id
+I000786,O00554,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000787,O00555,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000788,O00556,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000789,O00557,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000790,O00558,F022,Banana,1,120,g,6.17,0.0,6.17,consumed,1.0,food_id
+I000791,O00558,F023,Boiled Eggs,1,100,g,14.41,0.0,14.41,consumed,1.0,food_id
+I000792,O00559,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000793,O00560,F025,Apple,1,150,g,30.87,0.0,30.87,consumed,1.0,food_id
+I000794,O00561,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000795,O00561,F021,Curd (Dahi),1,150,g,18.52,0.0,18.52,consumed,1.0,food_id
+I000796,O00562,F022,Banana,1,120,g,6.18,0.0,6.18,consumed,1.0,food_id
+I000797,O00562,F023,Boiled Eggs,1,100,g,14.41,0.0,14.41,consumed,1.0,food_id
+I000798,O00563,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000799,O00564,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000800,O00565,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000801,O00566,F021,Curd (Dahi),1,500,g,61.75,0.0,61.75,unknown,,food_id
+I000802,O00566,F022,Banana,6,120,g,6.18,0.0,37.08,unknown,,food_id
+I000803,O00566,F023,Boiled Eggs,1,600,g,86.46,0.0,86.46,unknown,,food_id
+I000804,O00567,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000805,O00568,F013,Veg. Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000806,O00569,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000807,O00570,F022,Banana,1,120,g,6.18,0.0,6.18,consumed,1.0,food_id
+I000808,O00570,F023,Boiled Eggs,1,100,g,14.41,0.0,14.41,consumed,1.0,food_id
+I000809,O00571,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000810,O00572,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,consumed,1.0,food_id
+I000811,O00573,F008,Grilled Chicken Salad Bowl,1,350,g,290.0,0.0,290.0,consumed,1.0,food_id
+I000812,O00574,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000813,O00575,F022,Banana,1,120,g,6.18,0.0,6.18,consumed,1.0,food_id
+I000814,O00575,F023,Boiled Eggs,1,100,g,14.42,0.0,14.42,consumed,1.0,food_id
+I000815,O00576,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000816,O00576,F021,Curd (Dahi),1,150,g,18.54,0.0,18.54,consumed,1.0,food_id
+I000817,O00577,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000818,O00577,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000819,O00578,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000820,O00579,F021,Curd (Dahi),1,500,g,61.8,0.0,61.8,unknown,,food_id
+I000821,O00579,F022,Banana,6,120,g,6.18,3.71,33.37,unknown,,food_id
+I000822,O00579,F023,Boiled Eggs,1,600,g,86.52,0.0,86.52,unknown,,food_id
+I000823,O00579,F026,Mixed Nuts,1,250,g,257.48,0.0,257.48,unknown,,food_id
+I000824,O00580,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000825,O00581,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000826,O00582,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000827,O00583,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000828,O00584,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000829,O00584,F021,Curd (Dahi),1,150,g,18.54,0.0,18.54,consumed,1.0,food_id
+I000830,O00585,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000831,O00586,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000832,O00587,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000833,O00588,F004,Paneer Butter Masala with 2 Roti,1,400,g,245.0,0.0,245.0,partially_consumed,0.5,food_id
+I000834,O00589,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000835,O00590,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000836,O00591,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000837,O00592,F026,Mixed Nuts,1,30,g,30.91,0.0,30.91,consumed,1.0,food_id
+I000838,O00593,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000839,O00594,F022,Banana,1,120,g,6.18,0.0,6.18,consumed,1.0,food_id
+I000840,O00594,F023,Boiled Eggs,1,100,g,14.43,0.0,14.43,consumed,1.0,food_id
+I000841,O00595,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000842,O00595,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,partially_consumed,0.5,food_id
+I000843,O00596,F021,Curd (Dahi),1,500,g,61.85,6.19,55.66,unknown,,food_id
+I000844,O00596,F022,Banana,6,120,g,6.18,0.0,37.08,unknown,,food_id
+I000845,O00596,F023,Boiled Eggs,1,600,g,86.58,0.0,86.58,unknown,,food_id
+I000846,O00597,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I000847,O00598,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000848,O00599,F026,Mixed Nuts,1,30,g,30.92,0.0,30.92,consumed,1.0,food_id
+I000849,O00600,F030,Home Paneer Bhurji with 2 Roti,1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000850,O00601,F022,Banana,1,120,g,6.18,0.0,6.18,consumed,1.0,food_id
+I000851,O00601,F023,Boiled Eggs,1,100,g,14.43,0.0,14.43,consumed,1.0,food_id
+I000852,O00602,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000853,O00603,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000854,O00603,F021,Curd (Dahi),1,150,g,18.55,0.0,18.55,consumed,1.0,food_id
+I000855,O00604,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000856,O00605,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,consumed,1.0,food_id
+I000857,O00606,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000858,O00607,F002,Idli Sambar (3 idli),1,300,g,80.0,0.0,80.0,consumed,1.0,food_id
+I000859,O00608,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000860,O00608,F021,Curd (Dahi),1,150,g,18.55,0.0,18.55,consumed,1.0,food_id
+I000861,O00609,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000862,O00609,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000863,O00610,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000864,O00610,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000865,O00611,F021,Curd (Dahi),1,500,g,61.9,6.19,55.71,unknown,,food_id
+I000866,O00611,F022,Banana,6,120,g,6.19,3.71,33.43,unknown,,food_id
+I000867,O00611,F023,Boiled Eggs,1,600,g,86.64,8.66,77.98,unknown,,food_id
+I000868,O00611,F024,Roasted Chana,1,500,g,154.7,0.0,154.7,unknown,,food_id
+I000869,O00612,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000870,O00613,F027,Home Dal Rice Sabzi Thali,1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000871,O00614,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000872,O00615,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000873,O00616,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000874,O00616,F021,Curd (Dahi),1,150,g,18.57,0.0,18.57,consumed,1.0,food_id
+I000875,O00617,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000876,O00618,F013,Veg Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000877,O00619,F022,Banana,1,120,g,6.19,0.0,6.19,consumed,1.0,food_id
+I000878,O00620,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I000879,O00621,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I000880,O00622,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I000881,O00623,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I000882,O00624,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000883,O00625,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000884,O00626,F013,veg hakka noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000885,O00627,F021,Curd (Dahi),1,500,g,61.95,0.0,61.95,unknown,,food_id
+I000886,O00627,F022,Banana,6,120,g,6.19,0.0,37.14,unknown,,food_id
+I000887,O00627,F023,Boiled Eggs,1,600,g,86.7,0.0,86.7,unknown,,food_id
+I000888,O00627,F025,Apple,1,1000,g,206.4,0.0,206.4,unknown,,food_id
+I000889,O00628,F022,Banana,1,120,g,6.19,0.0,6.19,consumed,1.0,food_id
+I000890,O00628,F023,Boiled Eggs,1,100,g,14.45,0.0,14.45,consumed,1.0,food_id
+I000891,O00629,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000892,O00630,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I000893,O00630,F034,Gulab Jamun (2 pcs),1,100,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000894,O00631,F013,Veg Hakka Noodles,2,350,g,185.0,0.0,370.0,partially_consumed,0.5,food_id
+I000895,O00632,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000896,O00633,F004,paneer butter masala with 2 roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I000897,O00633,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000898,O00634,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000899,O00634,F021,Curd (Dahi),1,150,g,18.59,0.0,18.59,consumed,1.0,food_id
+I000900,O00635,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000901,O00636,F018,Sprouts Chaat,1,200,g,125.0,0.0,125.0,consumed,1.0,food_id
+I000902,O00637,F025,Apple,1,150,g,30.98,0.0,30.98,consumed,1.0,food_id
+I000903,O00638,F006,Chicken Biryani,2,450,g,270.0,0.0,540.0,partially_consumed,0.5,food_id
+I000904,O00639,F022,Banana,1,120,g,6.19,0.0,6.19,consumed,1.0,food_id
+I000905,O00639,F023,Boiled Eggs,1,100,g,14.46,0.0,14.46,consumed,1.0,food_id
+I000906,O00640,F016,Veg Burger with Fries,1,300,g,195.0,0.0,195.0,consumed,1.0,food_id
+I000907,O00641,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000908,O00642,F022,Banana,1,120,g,6.19,0.0,6.19,consumed,1.0,food_id
+I000909,O00642,F023,Boiled Eggs,1,100,g,14.46,0.0,14.46,consumed,1.0,food_id
+I000910,O00643,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000911,O00644,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I000912,O00645,F021,Curd (Dahi),1,500,g,62.0,0.0,62.0,unknown,,food_id
+I000913,O00645,F022,Banana,6,120,g,6.2,0.0,37.2,unknown,,food_id
+I000914,O00645,F023,Boiled Eggs,1,600,g,86.76,0.0,86.76,unknown,,food_id
+I000915,O00645,F026,Mixed Nuts,1,250,g,258.25,0.0,258.25,unknown,,food_id
+I000916,O00646,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000917,O00646,F021,Curd (Dahi),1,150,g,18.6,0.0,18.6,consumed,1.0,food_id
+I000918,O00647,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000919,O00648,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I000920,O00649,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,partially_consumed,0.5,food_id
+I000921,O00650,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I000922,O00651,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I000923,O00651,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000924,O00652,F022,Banana,1,120,g,6.2,0.0,6.2,consumed,1.0,food_id
+I000925,O00652,F023,Boiled Eggs,1,100,g,14.47,0.0,14.47,consumed,1.0,food_id
+I000926,O00653,F013,Veg Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000927,O00654,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I000928,O00655,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,not_consumed,0.0,food_id
+I000929,O00656,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000930,O00656,F021,Curd (Dahi),1,150,g,18.6,0.0,18.6,consumed,1.0,food_id
+I000931,O00657,F020,Poha,1,200,g,60.0,0.0,60.0,partially_consumed,0.5,food_id
+I000932,O00658,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000933,O00658,F021,Curd (Dahi),1,150,g,18.6,0.0,18.6,consumed,1.0,food_id
+I000934,O00659,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000935,O00659,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000936,O00660,F021,Curd (Dahi),1,500,g,62.05,0.0,62.05,unknown,,food_id
+I000937,O00660,F022,Banana,6,120,g,6.2,0.0,37.2,unknown,,food_id
+I000938,O00660,F023,Boiled Eggs,1,600,g,86.82,0.0,86.82,unknown,,food_id
+I000939,O00660,F025,Apple,1,1000,g,206.8,0.0,206.8,unknown,,food_id
+I000940,O00661,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,partially_consumed,0.5,food_id
+I000941,O00662,F014,Chicken Fried Rice,1,400,g,215.0,0.0,215.0,not_consumed,0.0,food_id
+I000942,O00663,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I000943,O00664,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I000944,O00665,F022,Banana,1,120,g,6.2,0.0,6.2,consumed,1.0,food_id
+I000945,O00665,F023,Boiled Eggs,1,100,g,14.48,0.0,14.48,consumed,1.0,food_id
+I000946,O00666,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I000947,O00667,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,not_consumed,0.0,food_id
+I000948,O00668,F015,Margherita Pizza (half medium),1,250,g,225.0,0.0,225.0,consumed,1.0,food_id
+I000949,O00669,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000950,O00670,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000951,O00670,F021,Curd (Dahi),1,150,g,18.61,0.0,18.61,consumed,1.0,food_id
+I000952,O00671,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,consumed,1.0,food_id
+I000953,O00672,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000954,O00673,F001,Masala  Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I000955,O00674,F004,Paneer Butter Masala w/ 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I000956,O00674,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000957,O00675,F022,Banana,1,120,g,6.2,0.0,6.2,consumed,1.0,food_id
+I000958,O00675,F023,Boiled Eggs,1,100,g,14.48,0.0,14.48,consumed,1.0,food_id
+I000959,O00676,F008,Grilled Chicken Salad Bowl,1,350,g,290.0,0.0,290.0,consumed,1.0,food_id
+I000960,O00677,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I000961,O00678,F021,Curd (Dahi),1,500,g,62.1,0.0,62.1,unknown,,food_id
+I000962,O00678,F022,Banana,6,120,g,6.2,3.72,33.48,unknown,,food_id
+I000963,O00678,F023,Boiled Eggs,1,600,g,86.94,0.0,86.94,unknown,,food_id
+I000964,O00678,F026,Mixed Nuts,1,250,g,258.68,0.0,258.68,unknown,,food_id
+I000965,O00679,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000966,O00680,F007,Veg Biryani,1,400,g,205.0,0.0,205.0,partially_consumed,0.5,food_id
+I000967,O00681,F009,Rajma Brown Rice Bowl,1,400,g,230.0,0.0,230.0,consumed,1.0,food_id
+I000968,O00682,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I000969,O00683,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000970,O00683,F021,Curd (Dahi),1,150,g,18.63,0.0,18.63,consumed,1.0,food_id
+I000971,O00684,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000972,O00685,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I000973,O00685,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,unknown,,food_id
+I000974,O00686,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I000975,O00686,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I000976,O00687,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000977,O00688,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I000978,O00689,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,partially_consumed,0.5,food_id
+I000979,O00689,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000980,O00690,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I000981,O00690,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,consumed,1.0,food_id
+I000982,O00691,F022,Banana,1,120,g,6.22,0.0,6.22,consumed,1.0,food_id
+I000983,O00691,F023,Boiled Eggs,1,100,g,14.49,0.0,14.49,consumed,1.0,food_id
+I000984,O00692,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I000985,O00693,F025,Apple,1,150,g,31.07,0.0,31.07,consumed,1.0,food_id
+I000986,O00694,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000987,O00695,F020,Poha,1,200,g,60.0,0.0,60.0,partially_consumed,0.5,food_id
+I000988,O00696,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,consumed,1.0,food_id
+I000989,O00697,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I000990,O00698,F021,Curd (Dahi),1,500,g,62.15,0.0,62.15,unknown,,food_id
+I000991,O00698,F022,Banana,6,120,g,6.22,0.0,37.32,unknown,,food_id
+I000992,O00698,F023,Boiled Eggs,1,600,g,87.0,0.0,87.0,unknown,,food_id
+I000993,O00698,F024,Roasted Chana,1,500,g,155.35,0.0,155.35,unknown,,food_id
+I000994,O00698,F026,Mixed Nuts,1,250,g,258.93,0.0,258.93,unknown,,food_id
+I000995,O00699,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I000996,O00700,F001,Masala  Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I000997,O00701,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,70.0,0.0,70.0,consumed,1.0,food_id
+I000998,O00702,F022,Banana,1,120,g,6.22,0.0,6.22,consumed,1.0,food_id
+I000999,O00702,F023,Boiled Eggs,1,100,g,14.5,0.0,14.5,consumed,1.0,food_id
+I001000,O00703,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,unknown,,food_id
+I001001,O00704,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,partially_consumed,0.5,food_id
+I001002,O00705,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001003,O00706,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001004,O00707,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001005,O00708,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I001006,O00709,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001007,O00710,F022,Banana,1,120,g,6.22,0.0,6.22,consumed,1.0,food_id
+I001008,O00710,F023,Boiled Eggs,1,100,g,14.51,0.0,14.51,consumed,1.0,food_id
+I001009,O00711,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001010,O00711,F021,Curd (Dahi),1,150,g,18.64,0.0,18.64,consumed,1.0,food_id
+I001011,O00712,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001012,O00712,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001013,O00713,F013,Veg. Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I001014,O00714,F021,Curd (Dahi),1,500,g,62.2,0.0,62.2,unknown,,food_id
+I001015,O00714,F022,Banana,6,120,g,6.22,0.0,37.32,unknown,,food_id
+I001016,O00714,F023,Boiled Eggs,1,600,g,87.06,0.0,87.06,unknown,,food_id
+I001017,O00714,F025,Apple,1,1000,g,207.3,20.73,186.57,unknown,,food_id
+I001018,O00714,F026,Mixed Nuts,1,250,g,259.07,0.0,259.07,unknown,,food_id
+I001019,O00715,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I001020,O00716,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I001021,O00717,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001022,O00718,F008,Grilled Chicken Salad Bowl,1,350,g,290.0,0.0,290.0,consumed,1.0,food_id
+I001023,O00719,F024,Roasted Chana,1,40,g,12.44,0.0,12.44,consumed,1.0,food_id
+I001024,O00720,F010,Paneer Tikka Bowl,1,350,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001025,O00720,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001026,O00721,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001027,O00722,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001028,O00723,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,consumed,1.0,food_id
+I001029,O00724,F022,Banana,1,120,g,6.22,0.0,6.22,consumed,1.0,food_id
+I001030,O00724,F023,Boiled Eggs,1,100,g,14.52,0.0,14.52,consumed,1.0,food_id
+I001031,O00725,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001032,O00726,F025,Apple,1,150,g,31.11,0.0,31.11,consumed,1.0,food_id
+I001033,O00727,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001034,O00727,F021,Curd (Dahi),1,150,g,18.66,0.0,18.66,consumed,1.0,food_id
+I001035,O00728,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001036,O00729,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001037,O00730,F013,Veg Hakka Noodles,2,350,g,185.0,0.0,370.0,partially_consumed,0.5,food_id
+I001038,O00731,F021,Curd (Dahi),1,500,g,62.25,0.0,62.25,unknown,,food_id
+I001039,O00731,F022,Banana,6,120,g,6.23,0.0,37.38,unknown,,food_id
+I001040,O00731,F023,Boiled Eggs,1,600,g,87.12,0.0,87.12,unknown,,food_id
+I001041,O00731,F024,Roasted Chana,1,500,g,155.55,0.0,155.55,unknown,,food_id
+I001042,O00732,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001043,O00733,F022,Banana,1,120,g,6.23,0.0,6.23,consumed,1.0,food_id
+I001044,O00733,F023,Boiled Eggs,1,100,g,14.52,0.0,14.52,consumed,1.0,food_id
+I001045,O00734,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001046,O00734,F021,Curd (Dahi),1,150,g,18.68,0.0,18.68,consumed,1.0,food_id
+I001047,O00735,F025,Apple,1,150,g,31.12,0.0,31.12,consumed,1.0,food_id
+I001048,O00736,F022,Banana,1,120,g,6.23,0.0,6.23,consumed,1.0,food_id
+I001049,O00736,F023,Boiled Eggs,1,100,g,14.52,0.0,14.52,consumed,1.0,food_id
+I001050,O00737,F013,Veg. Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I001051,O00738,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001052,O00739,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001053,O00740,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001054,O00741,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001055,O00741,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001056,O00742,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001057,O00742,F021,Curd (Dahi),1,150,g,18.68,0.0,18.68,consumed,1.0,food_id
+I001058,O00743,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001059,O00744,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001060,O00745,F035,Fresh Lime Soda,1,300,ml,60.0,0.0,60.0,consumed,1.0,food_id
+I001061,O00746,F004,Paneer Butter Masala with 2 Roti,2,400,g,250.0,0.0,500.0,partially_consumed,0.5,food_id
+I001062,O00747,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001063,O00748,F010,Paneer Tikka Bowl,2,350,g,270.0,0.0,540.0,partially_consumed,0.5,food_id
+I001064,O00749,F021,Curd (Dahi),1,500,g,62.3,0.0,62.3,unknown,,food_id
+I001065,O00749,F022,Banana,6,120,g,6.23,0.0,37.38,unknown,,food_id
+I001066,O00749,F023,Boiled Eggs,1,600,g,87.18,0.0,87.18,unknown,,food_id
+I001067,O00749,F025,Apple,1,1000,g,207.6,0.0,207.6,unknown,,food_id
+I001068,O00750,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001069,O00751,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I001070,O00751,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001071,O00752,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001072,O00752,F021,Curd (Dahi),1,150,g,18.69,0.0,18.69,consumed,1.0,food_id
+I001073,O00753,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001074,O00754,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001075,O00755,F035,Fresh Lime Soda,1,300,ml,60.0,0.0,60.0,consumed,1.0,food_id
+I001076,O00756,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,partially_consumed,0.5,food_id
+I001077,O00757,F022,Banana,1,120,g,6.23,0.0,6.23,consumed,1.0,food_id
+I001078,O00757,F023,Boiled Eggs,1,100,g,14.54,0.0,14.54,consumed,1.0,food_id
+I001079,O00758,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001080,O00759,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001081,O00760,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001082,O00761,F013,Veg Hakka Noodles,2,350,g,185.0,0.0,370.0,partially_consumed,0.5,food_id
+I001083,O00762,F025,Apple,1,150,g,31.16,0.0,31.16,consumed,1.0,food_id
+I001084,O00763,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001085,O00764,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001086,O00764,F021,Curd (Dahi),1,150,g,18.7,0.0,18.7,consumed,1.0,food_id
+I001087,O00765,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001088,O00766,F021,Curd (Dahi),1,500,g,62.35,0.0,62.35,unknown,,food_id
+I001089,O00766,F022,Banana,6,120,g,6.23,0.0,37.38,unknown,,food_id
+I001090,O00766,F023,Boiled Eggs,1,600,g,87.3,0.0,87.3,unknown,,food_id
+I001091,O00766,F024,Roasted Chana,1,500,g,155.85,0.0,155.85,unknown,,food_id
+I001092,O00766,F026,Mixed Nuts,1,250,g,259.75,0.0,259.75,unknown,,food_id
+I001093,O00767,F022,Banana,1,120,g,6.23,0.0,6.23,consumed,1.0,food_id
+I001094,O00767,F023,Boiled Eggs,1,100,g,14.55,0.0,14.55,consumed,1.0,food_id
+I001095,O00768,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001096,O00769,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001097,O00770,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001098,O00771,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001099,O00771,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001100,O00772,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001101,O00772,F021,Curd (Dahi),1,150,g,18.7,0.0,18.7,consumed,1.0,food_id
+I001102,O00773,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001103,O00774,F005,Dal Tadka with Jeera Rice,1,400,g,185.0,0.0,185.0,consumed,1.0,food_id
+I001104,O00775,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001105,O00776,F022,Banana,1,120,g,6.24,0.0,6.24,consumed,1.0,food_id
+I001106,O00776,F023,Boiled Eggs,1,100,g,14.55,0.0,14.55,consumed,1.0,food_id
+I001107,O00777,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001108,O00778,F024,Roasted Chana,1,40,g,12.47,0.0,12.47,consumed,1.0,food_id
+I001109,O00779,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,partially_consumed,0.5,food_id
+I001110,O00780,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001111,O00781,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001112,O00782,F022,Banana,1,120,g,6.24,0.0,6.24,consumed,1.0,food_id
+I001113,O00783,F008,Grilled Chicken Salad Bowl,2,350,g,290.0,0.0,580.0,partially_consumed,0.5,food_id
+I001114,O00783,F040,Green Salad,1,120,g,50.0,0.0,50.0,partially_consumed,0.5,food_id
+I001115,O00784,F021,Curd (Dahi),1,500,g,62.4,6.24,56.16,unknown,,food_id
+I001116,O00784,F022,Banana,6,120,g,6.24,0.0,37.44,unknown,,food_id
+I001117,O00784,F023,Boiled Eggs,1,600,g,87.36,0.0,87.36,unknown,,food_id
+I001118,O00785,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001119,O00786,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001120,O00787,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001121,O00788,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001122,O00789,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001123,O00789,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001124,O00790,F013,Veg Hakka Noodles,1,350,g,185.0,0.0,185.0,consumed,1.0,food_id
+I001125,O00791,F022,Banana,1,120,g,6.24,0.0,6.24,consumed,1.0,food_id
+I001126,O00791,F023,Boiled Eggs,1,100,g,14.56,0.0,14.56,consumed,1.0,food_id
+I001127,O00792,F009,Rajma Brown Rice Bowl,1,400,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001128,O00793,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001129,O00794,F012,Egg Curry with 2 Roti,2,380,g,175.0,0.0,350.0,partially_consumed,0.5,food_id
+I001130,O00795,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001131,O00796,F025,Apple,1,150,g,31.21,0.0,31.21,consumed,1.0,food_id
+I001132,O00797,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001133,O00798,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001134,O00798,F021,Curd (Dahi),1,150,g,18.73,0.0,18.73,consumed,1.0,food_id
+I001135,O00799,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001136,O00799,F021,Curd (Dahi),1,150,g,18.73,0.0,18.73,consumed,1.0,food_id
+I001137,O00800,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I001138,O00801,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001139,O00802,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001140,O00803,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001141,O00803,F021,Curd (Dahi),1,150,g,18.73,0.0,18.73,consumed,1.0,food_id
+I001142,O00804,F021,Curd (Dahi),1,500,g,62.45,0.0,62.45,unknown,,food_id
+I001143,O00804,F022,Banana,6,120,g,6.24,3.74,33.7,unknown,,food_id
+I001144,O00804,F023,Boiled Eggs,1,600,g,87.42,0.0,87.42,unknown,,food_id
+I001145,O00804,F025,Apple,1,1000,g,208.2,0.0,208.2,unknown,,food_id
+I001146,O00804,F026,Mixed Nuts,1,250,g,260.2,0.0,260.2,unknown,,food_id
+I001147,O00805,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001148,O00806,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001149,O00807,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001150,O00807,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001151,O00808,F012,Egg Curry with 2 Roti,2,380,g,175.0,0.0,350.0,partially_consumed,0.5,food_id
+I001152,O00808,F039,Cucumber Raita,1,150,g,60.0,0.0,60.0,partially_consumed,0.5,food_id
+I001153,O00809,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001154,O00810,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001155,O00811,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001156,O00812,F027,Home Dal Rice Sabzi Thali,1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001157,O00813,F020,Poha,1,200,g,60.0,0.0,60.0,consumed,1.0,food_id
+I001158,O00814,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001159,O00814,F021,Curd (Dahi),1,150,g,18.73,0.0,18.73,consumed,1.0,food_id
+I001160,O00815,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001161,O00816,F022,Banana,1,120,g,6.25,0.0,6.25,consumed,1.0,food_id
+I001162,O00816,F023,Boiled Eggs,1,100,g,14.58,0.0,14.58,consumed,1.0,food_id
+I001163,O00817,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001164,O00818,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001165,O00818,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,partially_consumed,0.5,food_id
+I001166,O00819,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001167,O00820,F022,Banana,1,120,g,6.25,0.0,6.25,consumed,1.0,food_id
+I001168,O00820,F023,Boiled Eggs,1,100,g,14.58,0.0,14.58,consumed,1.0,food_id
+I001169,O00821,F008,Grilled Chicken Salad Bowl,1,350,g,290.0,0.0,290.0,partially_consumed,0.5,food_id
+I001170,O00822,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001171,O00822,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001172,O00823,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001173,O00823,F021,Curd (Dahi),1,150,g,18.75,0.0,18.75,consumed,1.0,food_id
+I001174,O00824,F021,Curd (Dahi),1,500,g,62.5,0.0,62.5,unknown,,food_id
+I001175,O00824,F022,Banana,6,120,g,6.25,0.0,37.5,unknown,,food_id
+I001176,O00824,F023,Boiled Eggs,1,600,g,87.48,0.0,87.48,unknown,,food_id
+I001177,O00824,F025,Apple,1,1000,g,208.3,0.0,208.3,unknown,,food_id
+I001178,O00824,F026,Mixed Nuts,1,250,g,260.4,0.0,260.4,unknown,,food_id
+I001179,O00825,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001180,O00826,F012,Egg Curry with 2 Roti,1,380,g,175.0,0.0,175.0,not_consumed,0.0,food_id
+I001181,O00827,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001182,O00828,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001183,O00829,F025,Apple,1,150,g,31.26,0.0,31.26,consumed,1.0,food_id
+I001184,O00830,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001185,O00830,F021,Curd (Dahi),1,150,g,18.75,0.0,18.75,consumed,1.0,food_id
+I001186,O00831,F022,Banana,1,120,g,6.25,0.0,6.25,consumed,1.0,food_id
+I001187,O00831,F023,Boiled Eggs,1,100,g,14.59,0.0,14.59,consumed,1.0,food_id
+I001188,O00832,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001189,O00833,F025,Apple,1,150,g,31.26,0.0,31.26,consumed,1.0,food_id
+I001190,O00834,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001191,O00834,F021,Curd (Dahi),1,150,g,18.75,0.0,18.75,consumed,1.0,food_id
+I001192,O00835,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001193,O00836,F013,Veg Hakka Noodles,2,350,g,190.0,0.0,380.0,partially_consumed,0.5,food_id
+I001194,O00837,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001195,O00837,F021,Curd (Dahi),1,150,g,18.75,0.0,18.75,consumed,1.0,food_id
+I001196,O00838,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001197,O00839,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001198,O00840,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,consumed,1.0,food_id
+I001199,O00841,F021,Curd (Dahi),1,500,g,62.55,0.0,62.55,unknown,,food_id
+I001200,O00841,F022,Banana,6,120,g,6.25,0.0,37.5,unknown,,food_id
+I001201,O00841,F023,Boiled Eggs,1,600,g,87.54,0.0,87.54,unknown,,food_id
+I001202,O00842,F022,Banana,1,120,g,6.25,0.0,6.25,consumed,1.0,food_id
+I001203,O00842,F023,Boiled Eggs,1,100,g,14.59,0.0,14.59,consumed,1.0,food_id
+I001204,O00843,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001205,O00844,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001206,O00845,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001207,O00846,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001208,O00847,F008,Grilled Chicken Salad Bowl,2,350,g,290.0,0.0,580.0,partially_consumed,0.5,food_id
+I001209,O00847,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001210,O00848,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001211,O00849,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001212,O00849,F021,Curd (Dahi),1,150,g,18.77,0.0,18.77,consumed,1.0,food_id
+I001213,O00850,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001214,O00850,F021,Curd (Dahi),1,150,g,18.77,0.0,18.77,consumed,1.0,food_id
+I001215,O00851,F022,Banana,1,120,g,6.25,0.0,6.25,consumed,1.0,food_id
+I001216,O00851,F023,Boiled Eggs,1,100,g,14.6,0.0,14.6,consumed,1.0,food_id
+I001217,O00852,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,unknown,,food_id
+I001218,O00853,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001219,O00854,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001220,O00855,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001221,O00856,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,consumed,1.0,food_id
+I001222,O00857,F025,Apple,1,150,g,31.29,0.0,31.29,consumed,1.0,food_id
+I001223,O00858,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001224,O00858,F021,Curd (Dahi),1,150,g,18.78,0.0,18.78,consumed,1.0,food_id
+I001225,O00859,F009,Rajma Brown Rice Bowl,1,400,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001226,O00859,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001227,O00860,F025,Apple,1,150,g,31.29,0.0,31.29,consumed,1.0,food_id
+I001228,O00861,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001229,O00861,F021,Curd (Dahi),1,150,g,18.78,0.0,18.78,consumed,1.0,food_id
+I001230,O00862,F021,Curd (Dahi),1,500,g,62.6,6.26,56.34,unknown,,food_id
+I001231,O00862,F022,Banana,6,120,g,6.26,0.0,37.56,unknown,,food_id
+I001232,O00862,F023,Boiled Eggs,1,600,g,87.66,0.0,87.66,unknown,,food_id
+I001233,O00862,F025,Apple,1,1000,g,208.7,0.0,208.7,unknown,,food_id
+I001234,O00863,F022,Banana,1,120,g,6.26,0.0,6.26,consumed,1.0,food_id
+I001235,O00863,F023,Boiled Eggs,1,100,g,14.61,0.0,14.61,consumed,1.0,food_id
+I001236,O00864,F013,veg hakka noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001237,O00865,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001238,O00865,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001239,O00866,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001240,O00867,F022,Banana,1,120,g,6.26,0.0,6.26,consumed,1.0,food_id
+I001241,O00867,F023,Boiled Eggs,1,100,g,14.61,0.0,14.61,consumed,1.0,food_id
+I001242,O00868,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001243,O00869,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001244,O00869,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001245,O00870,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001246,O00870,F021,Curd (Dahi),1,150,g,18.78,0.0,18.78,consumed,1.0,food_id
+I001247,O00871,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001248,O00872,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001249,O00873,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001250,O00873,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001251,O00874,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,consumed,1.0,food_id
+I001252,O00875,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001253,O00876,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001254,O00876,F021,Curd (Dahi),1,150,g,18.8,0.0,18.8,consumed,1.0,food_id
+I001255,O00877,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001256,O00878,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001257,O00879,F026,Mixed Nuts,1,30,g,31.32,0.0,31.32,consumed,1.0,food_id
+I001258,O00880,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001259,O00881,F021,Curd (Dahi),1,500,g,62.65,6.27,56.38,unknown,,food_id
+I001260,O00881,F022,Banana,6,120,g,6.26,0.0,37.56,unknown,,food_id
+I001261,O00881,F023,Boiled Eggs,1,600,g,87.72,0.0,87.72,unknown,,food_id
+I001262,O00881,F026,Mixed Nuts,1,250,g,261.05,0.0,261.05,unknown,,food_id
+I001263,O00882,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001264,O00883,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001265,O00884,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001266,O00885,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001267,O00885,F021,Curd (Dahi),1,150,g,18.8,0.0,18.8,consumed,1.0,food_id
+I001268,O00886,F022,Banana,1,120,g,6.26,0.0,6.26,consumed,1.0,food_id
+I001269,O00886,F023,Boiled Eggs,1,100,g,14.62,0.0,14.62,consumed,1.0,food_id
+I001270,O00887,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,partially_consumed,0.5,food_id
+I001271,O00888,F037,Buttermilk (Chaas),1,250,ml,30.0,0.0,30.0,consumed,1.0,food_id
+I001272,O00889,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001273,O00890,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001274,O00891,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001275,O00892,F025,Apple,1,150,g,31.34,0.0,31.34,consumed,1.0,food_id
+I001276,O00893,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001277,O00894,F022,Banana,1,120,g,6.26,0.0,6.26,consumed,1.0,food_id
+I001278,O00894,F023,Boiled Eggs,1,100,g,14.63,0.0,14.63,consumed,1.0,food_id
+I001279,O00895,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001280,O00895,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001281,O00896,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001282,O00897,F012,Egg Curry with 2 Roti,1,380,g,180.0,0.0,180.0,partially_consumed,0.5,food_id
+I001283,O00898,F022,Banana,1,120,g,6.26,0.0,6.26,consumed,1.0,food_id
+I001284,O00898,F023,Boiled Eggs,1,100,g,14.63,0.0,14.63,consumed,1.0,food_id
+I001285,O00899,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,partially_consumed,0.5,food_id
+I001286,O00900,F025,Apple,1,150,g,31.35,0.0,31.35,consumed,1.0,food_id
+I001287,O00901,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001288,O00902,F021,Curd (Dahi),1,500,g,62.7,0.0,62.7,unknown,,food_id
+I001289,O00902,F022,Banana,6,120,g,6.28,0.0,37.68,unknown,,food_id
+I001290,O00902,F023,Boiled Eggs,1,600,g,87.78,8.78,79.0,unknown,,food_id
+I001291,O00902,F025,Apple,1,1000,g,209.0,0.0,209.0,unknown,,food_id
+I001292,O00902,F026,Mixed Nuts,1,250,g,261.25,0.0,261.25,unknown,,food_id
+I001293,O00903,F010,Paneer Tikka Bowl,1,350,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001294,O00903,F040,Green Salad,1,120,g,50.0,0.0,50.0,partially_consumed,0.5,food_id
+I001295,O00904,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001296,O00905,F010,Paneer Tikka Bowl,1,350,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001297,O00906,F008,Grilled Chicken Salad Bowl,1,350,g,295.0,0.0,295.0,consumed,1.0,food_id
+I001298,O00907,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001299,O00907,F021,Curd (Dahi),1,150,g,18.81,0.0,18.81,consumed,1.0,food_id
+I001300,O00908,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001301,O00909,F035,Fresh Lime Soda,1,300,ml,65.0,0.0,65.0,partially_consumed,0.5,food_id
+I001302,O00910,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001303,O00910,F021,Curd (Dahi),1,150,g,18.81,0.0,18.81,consumed,1.0,food_id
+I001304,O00911,F022,Banana,1,120,g,6.28,0.0,6.28,consumed,1.0,food_id
+I001305,O00911,F023,Boiled Eggs,1,100,g,14.64,0.0,14.64,consumed,1.0,food_id
+I001306,O00912,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001307,O00913,F026,Mixed Nuts,1,30,g,31.36,0.0,31.36,consumed,1.0,food_id
+I001308,O00914,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001309,O00914,F021,Curd (Dahi),1,150,g,18.82,0.0,18.82,consumed,1.0,food_id
+I001310,O00915,F021,Curd (Dahi),1,500,g,62.75,0.0,62.75,unknown,,food_id
+I001311,O00915,F022,Banana,6,120,g,6.28,0.0,37.68,unknown,,food_id
+I001312,O00915,F023,Boiled Eggs,1,600,g,87.84,0.0,87.84,unknown,,food_id
+I001313,O00915,F024,Roasted Chana,1,500,g,156.85,0.0,156.85,unknown,,food_id
+I001314,O00916,F022,Banana,1,120,g,6.28,0.0,6.28,consumed,1.0,food_id
+I001315,O00916,F023,Boiled Eggs,1,100,g,14.64,0.0,14.64,consumed,1.0,food_id
+I001316,O00917,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001317,O00918,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001318,O00918,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001319,O00919,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001320,O00919,F021,Curd (Dahi),1,150,g,18.82,0.0,18.82,consumed,1.0,food_id
+I001321,O00920,F003,Ven Pongal,1,250,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001322,O00921,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001323,O00922,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,not_consumed,0.0,food_id
+I001324,O00922,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001325,O00923,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001326,O00924,F003,Ven Pongal,1,250,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001327,O00925,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001328,O00925,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001329,O00926,F008,Grilled Chicken Salad Bowl,1,350,g,295.0,0.0,295.0,consumed,1.0,food_id
+I001330,O00926,F040,Green Salad,1,120,g,50.0,0.0,50.0,not_consumed,0.0,food_id
+I001331,O00927,F022,Banana,1,120,g,6.28,0.0,6.28,consumed,1.0,food_id
+I001332,O00927,F023,Boiled Eggs,1,100,g,14.65,0.0,14.65,consumed,1.0,food_id
+I001333,O00928,F006,Chicken Biryani,2,450,g,270.0,0.0,540.0,partially_consumed,0.5,food_id
+I001334,O00929,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001335,O00930,F021,Curd (Dahi),1,500,g,62.8,0.0,62.8,unknown,,food_id
+I001336,O00930,F022,Banana,6,120,g,6.28,0.0,37.68,unknown,,food_id
+I001337,O00930,F023,Boiled Eggs,1,600,g,87.9,8.79,79.11,unknown,,food_id
+I001338,O00930,F024,Roasted Chana,1,500,g,156.95,0.0,156.95,unknown,,food_id
+I001339,O00930,F025,Apple,1,1000,g,209.3,0.0,209.3,unknown,,food_id
+I001340,O00930,F026,Mixed Nuts,1,250,g,261.6,26.16,235.44,unknown,,food_id
+I001341,O00931,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001342,O00932,F006,Chicken Biryani,1,450,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001343,O00933,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001344,O00934,F020,Poha,1,200,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001345,O00935,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,consumed,1.0,food_id
+I001346,O00936,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001347,O00937,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001348,O00937,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001349,O00938,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,unknown,,food_id
+I001350,O00938,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,unknown,,food_id
+I001351,O00939,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001352,O00940,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001353,O00941,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001354,O00942,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001355,O00943,F026,Mixed Nuts,1,30,g,31.41,0.0,31.41,consumed,1.0,food_id
+I001356,O00944,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001357,O00945,F021,Curd (Dahi),1,500,g,62.85,0.0,62.85,unknown,,food_id
+I001358,O00945,F022,Banana,6,120,g,6.29,0.0,37.74,unknown,,food_id
+I001359,O00945,F023,Boiled Eggs,1,600,g,87.96,0.0,87.96,unknown,,food_id
+I001360,O00945,F026,Mixed Nuts,1,250,g,261.8,0.0,261.8,unknown,,food_id
+I001361,O00946,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001362,O00947,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I001363,O00948,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001364,O00949,F007,Veg Biryani,2,400,g,210.0,0.0,420.0,partially_consumed,0.5,food_id
+I001365,O00950,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001366,O00950,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001367,O00951,F010,Paneer Tikka Bowl,1,350,g,270.0,0.0,270.0,consumed,1.0,food_id
+I001368,O00951,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001369,O00952,F001,Masala  Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001370,O00953,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001371,O00953,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001372,O00954,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001373,O00955,F022,Banana,1,120,g,6.29,0.0,6.29,consumed,1.0,food_id
+I001374,O00955,F023,Boiled Eggs,1,100,g,14.67,0.0,14.67,consumed,1.0,food_id
+I001375,O00956,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001376,O00956,F021,Curd (Dahi),1,150,g,18.86,0.0,18.86,consumed,1.0,food_id
+I001377,O00957,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001378,O00957,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001379,O00958,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001380,O00959,F021,Curd (Dahi),1,500,g,62.85,0.0,62.85,unknown,,food_id
+I001381,O00959,F022,Banana,6,120,g,6.29,0.0,37.74,unknown,,food_id
+I001382,O00959,F023,Boiled Eggs,1,600,g,88.02,0.0,88.02,unknown,,food_id
+I001383,O00959,F024,Roasted Chana,1,500,g,157.2,0.0,157.2,unknown,,food_id
+I001384,O00959,F025,Apple,1,1000,g,209.6,20.96,188.64,unknown,,food_id
+I001385,O00959,F026,Mixed Nuts,1,250,g,261.95,0.0,261.95,unknown,,food_id
+I001386,O00960,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001387,O00961,F012,Egg Curry with 2 Roti,1,380,g,180.0,0.0,180.0,partially_consumed,0.5,food_id
+I001388,O00961,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001389,O00962,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001390,O00962,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001391,O00963,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001392,O00963,F021,Curd (Dahi),1,150,g,18.86,0.0,18.86,consumed,1.0,food_id
+I001393,O00964,F022,Banana,1,120,g,6.29,0.0,6.29,consumed,1.0,food_id
+I001394,O00964,F023,Boiled Eggs,1,100,g,14.67,0.0,14.67,consumed,1.0,food_id
+I001395,O00965,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,not_consumed,0.0,food_id
+I001396,O00966,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001397,O00966,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001398,O00967,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001399,O00968,F009,Rajma Brown Rice Bowl,1,400,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001400,O00968,F040,Green Salad,1,120,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001401,O00969,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001402,O00970,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001403,O00971,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001404,O00972,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001405,O00973,F021,Curd (Dahi),1,500,g,62.9,0.0,62.9,unknown,,food_id
+I001406,O00973,F022,Banana,6,120,g,6.29,3.77,33.97,unknown,,food_id
+I001407,O00973,F023,Boiled Eggs,1,600,g,88.08,0.0,88.08,unknown,,food_id
+I001408,O00973,F025,Apple,1,1000,g,209.7,0.0,209.7,unknown,,food_id
+I001409,O00974,F022,Banana,1,120,g,6.29,0.0,6.29,consumed,1.0,food_id
+I001410,O00974,F023,Boiled Eggs,1,100,g,14.68,0.0,14.68,consumed,1.0,food_id
+I001411,O00975,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001412,O00976,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001413,O00977,F027,"home dal, rice and sabzi thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001414,O00978,F022,Banana,1,120,g,6.29,0.0,6.29,consumed,1.0,food_id
+I001415,O00978,F023,Boiled Eggs,1,100,g,14.68,0.0,14.68,consumed,1.0,food_id
+I001416,O00979,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001417,O00980,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001418,O00980,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,partially_consumed,0.5,food_id
+I001419,O00981,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,partially_consumed,0.5,food_id
+I001420,O00982,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001421,O00983,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001422,O00983,F033,Samosa (2 pcs),1,140,g,50.0,0.0,50.0,consumed,1.0,food_id
+I001423,O00984,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001424,O00984,F021,Curd (Dahi),1,150,g,18.89,0.0,18.89,consumed,1.0,food_id
+I001425,O00985,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001426,O00986,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001427,O00987,F022,Banana,1,120,g,6.3,0.0,6.3,consumed,1.0,food_id
+I001428,O00987,F023,Boiled Eggs,1,100,g,14.69,0.0,14.69,consumed,1.0,food_id
+I001429,O00988,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001430,O00989,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001431,O00990,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001432,O00991,F022,Banana,1,120,g,6.3,0.0,6.3,consumed,1.0,food_id
+I001433,O00991,F023,Boiled Eggs,1,100,g,14.69,0.0,14.69,consumed,1.0,food_id
+I001434,O00992,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001435,O00993,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001436,O00994,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001437,O00995,F021,Curd (Dahi),1,500,g,62.95,0.0,62.95,unknown,,food_id
+I001438,O00995,F022,Banana,6,120,g,6.3,0.0,37.8,unknown,,food_id
+I001439,O00995,F023,Boiled Eggs,1,600,g,88.14,0.0,88.14,unknown,,food_id
+I001440,O00995,F024,Roasted Chana,1,500,g,157.4,0.0,157.4,unknown,,food_id
+I001441,O00996,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001442,O00997,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001443,O00998,F022,Banana,1,120,g,6.3,0.0,6.3,consumed,1.0,food_id
+I001444,O00999,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001445,O01000,F022,Banana,1,120,g,6.3,0.0,6.3,consumed,1.0,food_id
+I001446,O01000,F023,Boiled Eggs,1,100,g,14.7,0.0,14.7,consumed,1.0,food_id
+I001447,O01001,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001448,O01002,F004,Paneer Butter Masala with 2 Roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001449,O01002,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001450,O01003,F022,Banana,1,120,g,6.3,0.0,6.3,consumed,1.0,food_id
+I001451,O01003,F023,Boiled Eggs,1,100,g,14.7,0.0,14.7,consumed,1.0,food_id
+I001452,O01004,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001453,O01005,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001454,O01006,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001455,O01007,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,not_consumed,0.0,food_id
+I001456,O01008,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001457,O01009,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001458,O01010,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001459,O01011,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001460,O01012,F020,Poha,1,200,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001461,O01013,F008,Grilled Chicken Salad Bowl,1,350,g,295.0,0.0,295.0,consumed,1.0,food_id
+I001462,O01014,F025,Apple,1,150,g,31.52,0.0,31.52,consumed,1.0,food_id
+I001463,O01015,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001464,O01016,F021,Curd (Dahi),1,500,g,63.05,0.0,63.05,unknown,,food_id
+I001465,O01016,F022,Banana,6,120,g,6.3,0.0,37.8,unknown,,food_id
+I001466,O01016,F023,Boiled Eggs,1,600,g,88.26,8.83,79.43,unknown,,food_id
+I001467,O01016,F025,Apple,1,1000,g,210.1,0.0,210.1,unknown,,food_id
+I001468,O01016,F026,Mixed Nuts,1,250,g,262.62,0.0,262.62,unknown,,food_id
+I001469,O01017,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001470,O01018,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,unknown,,food_id
+I001471,O01018,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001472,O01019,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001473,O01020,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001474,O01021,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001475,O01022,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001476,O01023,F010,Paneer Tikka Bowl,1,350,g,275.0,0.0,275.0,not_consumed,0.0,food_id
+I001477,O01024,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001478,O01024,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001479,O01025,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001480,O01026,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001481,O01027,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,partially_consumed,0.5,food_id
+I001482,O01028,F004,paneer butter masala with 2 roti,1,400,g,250.0,0.0,250.0,consumed,1.0,food_id
+I001483,O01028,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001484,O01029,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001485,O01030,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001486,O01031,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001487,O01031,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001488,O01032,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001489,O01033,F021,Curd (Dahi),1,500,g,63.1,0.0,63.1,unknown,,food_id
+I001490,O01033,F022,Banana,6,120,g,6.31,0.0,37.86,unknown,,food_id
+I001491,O01033,F023,Boiled Eggs,1,600,g,88.32,8.83,79.49,unknown,,food_id
+I001492,O01033,F024,Roasted Chana,1,500,g,157.7,0.0,157.7,unknown,,food_id
+I001493,O01034,F022,Banana,1,120,g,6.31,0.0,6.31,consumed,1.0,food_id
+I001494,O01034,F023,Boiled Eggs,1,100,g,14.72,0.0,14.72,consumed,1.0,food_id
+I001495,O01035,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001496,O01035,F021,Curd (Dahi),1,150,g,18.93,0.0,18.93,consumed,1.0,food_id
+I001497,O01036,F024,Roasted Chana,1,40,g,12.62,0.0,12.62,consumed,1.0,food_id
+I001498,O01037,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001499,O01038,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001500,O01039,F018,Sprouts Chaat,1,200,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001501,O01040,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001502,O01041,F012,Egg Curry with 2 Roti,1,380,g,180.0,0.0,180.0,consumed,1.0,food_id
+I001503,O01042,F024,Roasted Chana,1,40,g,12.62,0.0,12.62,consumed,1.0,food_id
+I001504,O01043,F012,Egg Curry with 2 Roti,1,380,g,180.0,0.0,180.0,consumed,1.0,food_id
+I001505,O01044,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001506,O01045,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001507,O01046,F027,Home Dal Rice Sabzi Thali,1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001508,O01047,F020,Poha,1,200,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001509,O01048,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001510,O01049,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001511,O01050,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001512,O01051,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001513,O01052,F021,Curd (Dahi),1,500,g,63.15,0.0,63.15,unknown,,food_id
+I001514,O01052,F022,Banana,6,120,g,6.31,0.0,37.86,unknown,,food_id
+I001515,O01052,F023,Boiled Eggs,1,600,g,88.38,0.0,88.38,unknown,,food_id
+I001516,O01052,F025,Apple,1,1000,g,210.5,21.05,189.45,unknown,,food_id
+I001517,O01052,F026,Mixed Nuts,1,250,g,263.07,0.0,263.07,unknown,,food_id
+I001518,O01053,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001519,O01054,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,consumed,1.0,food_id
+I001520,O01055,F010,Paneer Tikka Bowl,1,350,g,275.0,0.0,275.0,unknown,,food_id
+I001521,O01056,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001522,O01057,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001523,O01058,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001524,O01058,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001525,O01059,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001526,O01060,F022,Banana,1,120,g,6.31,0.0,6.31,consumed,1.0,food_id
+I001527,O01060,F023,Boiled Eggs,1,100,g,14.74,0.0,14.74,consumed,1.0,food_id
+I001528,O01061,F015,Margherita Pizza (half medium),1,250,g,230.0,0.0,230.0,not_consumed,0.0,food_id
+I001529,O01062,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001530,O01063,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001531,O01064,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001532,O01064,F021,Curd (Dahi),1,150,g,18.95,0.0,18.95,consumed,1.0,food_id
+I001533,O01065,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001534,O01065,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001535,O01066,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001536,O01067,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001537,O01068,F024,Roasted Chana,1,40,g,12.64,0.0,12.64,consumed,1.0,food_id
+I001538,O01069,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001539,O01069,F021,Curd (Dahi),1,150,g,18.96,0.0,18.96,consumed,1.0,food_id
+I001540,O01070,F021,Curd (Dahi),1,500,g,63.2,0.0,63.2,unknown,,food_id
+I001541,O01070,F022,Banana,6,120,g,6.32,0.0,37.92,unknown,,food_id
+I001542,O01070,F023,Boiled Eggs,1,600,g,88.44,0.0,88.44,unknown,,food_id
+I001543,O01070,F026,Mixed Nuts,1,250,g,263.27,0.0,263.27,unknown,,food_id
+I001544,O01071,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001545,O01072,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,partially_consumed,0.5,food_id
+I001546,O01073,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,not_consumed,0.0,food_id
+I001547,O01074,F022,Banana,1,120,g,6.32,0.0,6.32,consumed,1.0,food_id
+I001548,O01074,F023,Boiled Eggs,1,100,g,14.75,0.0,14.75,consumed,1.0,food_id
+I001549,O01075,F009,Rajma Brown Rice Bowl,1,400,g,230.0,0.0,230.0,consumed,1.0,food_id
+I001550,O01076,F026,Mixed Nuts,1,30,g,31.6,0.0,31.6,consumed,1.0,food_id
+I001551,O01077,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001552,O01078,F022,Banana,1,120,g,6.32,0.0,6.32,consumed,1.0,food_id
+I001553,O01078,F023,Boiled Eggs,1,100,g,14.75,0.0,14.75,consumed,1.0,food_id
+I001554,O01079,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001555,O01080,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I001556,O01081,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001557,O01082,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001558,O01083,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001559,O01083,F021,Curd (Dahi),1,150,g,18.96,0.0,18.96,consumed,1.0,food_id
+I001560,O01084,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001561,O01085,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001562,O01086,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001563,O01087,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001564,O01087,F021,Curd (Dahi),1,150,g,18.98,0.0,18.98,consumed,1.0,food_id
+I001565,O01088,F021,Curd (Dahi),1,500,g,63.25,0.0,63.25,unknown,,food_id
+I001566,O01088,F022,Banana,6,120,g,6.32,3.79,34.13,unknown,,food_id
+I001567,O01088,F023,Boiled Eggs,1,600,g,88.5,0.0,88.5,unknown,,food_id
+I001568,O01088,F025,Apple,1,1000,g,210.8,0.0,210.8,unknown,,food_id
+I001569,O01089,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001570,O01090,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,not_consumed,0.0,food_id
+I001571,O01091,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,consumed,1.0,food_id
+I001572,O01092,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001573,O01093,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001574,O01094,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001575,O01094,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001576,O01095,F010,Paneer Tikka Bowl,1,350,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001577,O01096,F022,Banana,1,120,g,6.32,0.0,6.32,consumed,1.0,food_id
+I001578,O01096,F023,Boiled Eggs,1,100,g,14.76,0.0,14.76,consumed,1.0,food_id
+I001579,O01097,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001580,O01098,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,unknown,,food_id
+I001581,O01099,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001582,O01100,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001583,O01101,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001584,O01102,F004,Paneer Butter Masala with 2 Roti,1,400,g,255.0,0.0,255.0,consumed,1.0,food_id
+I001585,O01103,F022,Banana,1,120,g,6.32,0.0,6.32,consumed,1.0,food_id
+I001586,O01103,F023,Boiled Eggs,1,100,g,14.76,0.0,14.76,consumed,1.0,food_id
+I001587,O01104,F004,paneer butter masala with 2 roti,1,400,g,255.0,0.0,255.0,consumed,1.0,food_id
+I001588,O01104,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001589,O01105,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001590,O01105,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001591,O01106,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001592,O01107,F021,Curd (Dahi),1,500,g,63.3,0.0,63.3,unknown,,food_id
+I001593,O01107,F022,Banana,6,120,g,6.32,0.0,37.92,unknown,,food_id
+I001594,O01107,F023,Boiled Eggs,1,600,g,88.62,0.0,88.62,unknown,,food_id
+I001595,O01107,F024,Roasted Chana,1,500,g,158.2,0.0,158.2,unknown,,food_id
+I001596,O01107,F025,Apple,1,1000,g,210.9,21.09,189.81,unknown,,food_id
+I001597,O01107,F026,Mixed Nuts,1,250,g,263.68,0.0,263.68,unknown,,food_id
+I001598,O01108,F022,Banana,1,120,g,6.32,0.0,6.32,consumed,1.0,food_id
+I001599,O01108,F023,Boiled Eggs,1,100,g,14.77,0.0,14.77,consumed,1.0,food_id
+I001600,O01109,F004,Paneer Butter Masala with 2 Roti,1,400,g,255.0,0.0,255.0,consumed,1.0,food_id
+I001601,O01110,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001602,O01110,F021,Curd (Dahi),1,150,g,18.99,0.0,18.99,consumed,1.0,food_id
+I001603,O01111,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001604,O01112,F027,"home dal, rice and sabzi thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001605,O01113,F035,Fresh Lime Soda,1,300,ml,65.0,0.0,65.0,partially_consumed,0.5,food_id
+I001606,O01114,F007,Veg Biryani,1,400,g,210.0,0.0,210.0,consumed,1.0,food_id
+I001607,O01115,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,partially_consumed,0.5,food_id
+I001608,O01116,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001609,O01117,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,unknown,,food_id
+I001610,O01117,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001611,O01118,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001612,O01119,F022,Banana,1,120,g,6.34,0.0,6.34,consumed,1.0,food_id
+I001613,O01119,F023,Boiled Eggs,1,100,g,14.77,0.0,14.77,consumed,1.0,food_id
+I001614,O01120,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001615,O01120,F021,Curd (Dahi),1,150,g,18.99,0.0,18.99,consumed,1.0,food_id
+I001616,O01121,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I001617,O01122,F016,Veg Burger with Fries,1,300,g,200.0,0.0,200.0,unknown,,food_id
+I001618,O01123,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001619,O01124,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001620,O01125,F025,Apple,1,150,g,31.66,0.0,31.66,consumed,1.0,food_id
+I001621,O01126,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001622,O01127,F021,Curd (Dahi),1,500,g,63.35,0.0,63.35,unknown,,food_id
+I001623,O01127,F022,Banana,6,120,g,6.34,0.0,38.04,unknown,,food_id
+I001624,O01127,F023,Boiled Eggs,1,600,g,88.68,0.0,88.68,unknown,,food_id
+I001625,O01127,F024,Roasted Chana,1,500,g,158.35,0.0,158.35,unknown,,food_id
+I001626,O01128,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001627,O01129,F004,Paneer Butter Masala with 2 Roti,2,400,g,255.0,0.0,510.0,partially_consumed,0.5,food_id
+I001628,O01130,F026,Mixed Nuts,1,30,g,31.67,0.0,31.67,consumed,1.0,food_id
+I001629,O01131,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001630,O01132,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001631,O01133,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001632,O01134,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001633,O01135,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001634,O01136,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001635,O01137,F036,Veg Sandwich,1,180,g,95.0,0.0,95.0,consumed,1.0,food_id
+I001636,O01138,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001637,O01139,F001,Masala Dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,food_id
+I001638,O01140,F012,Egg Curry with 2 Roti,1,380,g,180.0,0.0,180.0,consumed,1.0,food_id
+I001639,O01141,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001640,O01142,F021,Curd (Dahi),1,500,g,63.35,0.0,63.35,unknown,,food_id
+I001641,O01142,F022,Banana,6,120,g,6.34,0.0,38.04,unknown,,food_id
+I001642,O01142,F023,Boiled Eggs,1,600,g,88.74,0.0,88.74,unknown,,food_id
+I001643,O01143,F020,Poha,1,200,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001644,O01144,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001645,O01145,F022,Banana,1,120,g,6.34,0.0,6.34,consumed,1.0,food_id
+I001646,O01146,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001647,O01147,F022,Banana,1,120,g,6.34,0.0,6.34,consumed,1.0,food_id
+I001648,O01147,F023,Boiled Eggs,1,100,g,14.79,0.0,14.79,consumed,1.0,food_id
+I001649,O01148,F018,Sprouts Chaat,1,200,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001650,O01149,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,partially_consumed,0.5,food_id
+I001651,O01150,F022,Banana,1,120,g,6.34,0.0,6.34,consumed,1.0,food_id
+I001652,O01150,F023,Boiled Eggs,1,100,g,14.79,0.0,14.79,consumed,1.0,food_id
+I001653,O01151,F026,Mixed Nuts,1,30,g,31.7,0.0,31.7,consumed,1.0,food_id
+I001654,O01152,F013,Veg Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001655,O01153,F004,paneer butter masala with 2 roti,1,400,g,255.0,0.0,255.0,consumed,1.0,food_id
+I001656,O01154,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001657,O01155,F013,Veg Hakka Noodles,2,350,g,190.0,0.0,380.0,partially_consumed,0.5,food_id
+I001658,O01156,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001659,O01157,F022,Banana,1,120,g,6.35,0.0,6.35,consumed,1.0,food_id
+I001660,O01157,F023,Boiled Eggs,1,100,g,14.8,0.0,14.8,consumed,1.0,food_id
+I001661,O01158,F013,Veg Hakka Noodles,2,350,g,190.0,0.0,380.0,partially_consumed,0.5,food_id
+I001662,O01159,F022,Banana,1,120,g,6.35,0.0,6.35,consumed,1.0,food_id
+I001663,O01160,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001664,O01161,F021,Curd (Dahi),1,500,g,63.45,0.0,63.45,unknown,,food_id
+I001665,O01161,F022,Banana,6,120,g,6.35,0.0,38.1,unknown,,food_id
+I001666,O01161,F023,Boiled Eggs,1,600,g,88.8,0.0,88.8,unknown,,food_id
+I001667,O01161,F024,Roasted Chana,1,500,g,158.6,0.0,158.6,unknown,,food_id
+I001668,O01161,F026,Mixed Nuts,1,250,g,264.3,0.0,264.3,unknown,,food_id
+I001669,O01162,F020,Poha,1,200,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001670,O01163,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001671,O01164,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I001672,O01164,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001673,O01165,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001674,O01166,F022,Banana,1,120,g,6.35,0.0,6.35,consumed,1.0,food_id
+I001675,O01166,F023,Boiled Eggs,1,100,g,14.8,0.0,14.8,consumed,1.0,food_id
+I001676,O01167,F022,Banana,1,120,g,6.35,0.0,6.35,consumed,1.0,food_id
+I001677,O01168,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001678,O01169,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001679,O01170,F006,Chicken Biryani,2,450,g,275.0,0.0,550.0,partially_consumed,0.5,food_id
+I001680,O01171,F004,Paneer Butter Masala with 2 Roti,1,400,g,255.0,0.0,255.0,consumed,1.0,food_id
+I001681,O01171,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001682,O01172,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001683,O01173,F014,Chicken Fried Rice,1,400,g,220.0,0.0,220.0,consumed,1.0,food_id
+I001684,O01174,F026,Mixed Nuts,1,30,g,31.73,0.0,31.73,consumed,1.0,food_id
+I001685,O01175,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001686,O01175,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001687,O01176,F022,Banana,1,120,g,6.35,0.0,6.35,consumed,1.0,food_id
+I001688,O01176,F023,Boiled Eggs,1,100,g,14.81,0.0,14.81,consumed,1.0,food_id
+I001689,O01177,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001690,O01177,F021,Curd (Dahi),1,150,g,19.04,0.0,19.04,consumed,1.0,food_id
+I001691,O01178,F022,Banana,1,120,g,6.35,0.0,6.35,consumed,1.0,food_id
+I001692,O01179,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001693,O01180,F021,Curd (Dahi),1,500,g,63.5,0.0,63.5,unknown,,food_id
+I001694,O01180,F022,Banana,6,120,g,6.35,0.0,38.1,unknown,,food_id
+I001695,O01180,F023,Boiled Eggs,1,600,g,88.86,0.0,88.86,unknown,,food_id
+I001696,O01180,F024,Roasted Chana,1,500,g,158.7,0.0,158.7,unknown,,food_id
+I001697,O01180,F026,Mixed Nuts,1,250,g,264.5,0.0,264.5,unknown,,food_id
+I001698,O01181,F020,Poha,1,200,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001699,O01182,F012,Egg Curry with 2 Roti,1,380,g,180.0,0.0,180.0,consumed,1.0,food_id
+I001700,O01182,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001701,O01183,F025,Apple,1,150,g,31.74,0.0,31.74,consumed,1.0,food_id
+I001702,O01184,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001703,O01185,F002,Idli Sambar (3 idli),1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001704,O01186,F017,Moong Dal Khichdi,1,350,g,125.0,0.0,125.0,consumed,1.0,food_id
+I001705,O01187,F015,Margherita Pizza (half medium),1,250,g,235.0,0.0,235.0,consumed,1.0,food_id
+I001706,O01188,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001707,O01189,F008,Grilled Chicken Salad Bowl,1,350,g,295.0,0.0,295.0,consumed,1.0,food_id
+I001708,O01190,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001709,O01191,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001710,O01192,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001711,O01192,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001712,O01193,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001713,O01194,F029,Home Vegetable Upma,1,250,g,30.0,0.0,30.0,consumed,1.0,food_id
+I001714,O01195,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001715,O01195,F021,Curd (Dahi),1,150,g,19.05,0.0,19.05,consumed,1.0,food_id
+I001716,O01196,F025,Apple,1,150,g,31.76,0.0,31.76,consumed,1.0,food_id
+I001717,O01197,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001718,O01198,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001719,O01199,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001720,O01200,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,partially_consumed,0.5,food_id
+I001721,O01200,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001722,O01201,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001723,O01202,F021,Curd (Dahi),1,500,g,63.55,0.0,63.55,unknown,,food_id
+I001724,O01202,F022,Banana,6,120,g,6.36,0.0,38.16,unknown,,food_id
+I001725,O01202,F023,Boiled Eggs,1,600,g,88.98,0.0,88.98,unknown,,food_id
+I001726,O01202,F024,Roasted Chana,1,500,g,158.85,15.88,142.97,unknown,,food_id
+I001727,O01203,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001728,O01204,F008,Grilled Chicken Salad Bowl,1,350,g,295.0,0.0,295.0,consumed,1.0,food_id
+I001729,O01205,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001730,O01205,F034,Gulab Jamun (2 pcs),1,100,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001731,O01206,F027,"Home Dal, Rice and Sabzi Thali",1,450,g,75.0,0.0,75.0,consumed,1.0,food_id
+I001732,O01206,F021,Curd (Dahi),1,150,g,19.07,0.0,19.07,consumed,1.0,food_id
+I001733,O01207,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001734,O01208,F006,Chicken Biryani,1,450,g,275.0,0.0,275.0,consumed,1.0,food_id
+I001736,O01210,F001,masala dosa,1,250,g,115.0,0.0,115.0,partially_consumed,0.5,food_id
+I001737,O01211,F004,Paneer Butter Masala w/ 2 Roti,1,400,g,255.0,0.0,255.0,consumed,1.0,normalised_name
+I001738,O01211,F039,Cucumber Raita,1,150,g,65.0,0.0,65.0,consumed,1.0,food_id
+I001739,O01212,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001740,O01213,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001741,O01214,F030,Home Paneer Bhurji with 2 Roti,1,300,g,85.0,0.0,85.0,consumed,1.0,food_id
+I001742,O01215,F022,Banana,1,120,g,6.36,0.0,6.36,consumed,1.0,food_id
+I001743,O01215,F023,Boiled Eggs,1,100,g,14.84,0.0,14.84,consumed,1.0,food_id
+I001744,O01216,F008,Grilled Chicken Salad Bowl,1,350,g,295.0,0.0,295.0,consumed,1.0,food_id
+I001745,O01217,F031,Masala Chai,1,150,ml,25.0,0.0,25.0,consumed,1.0,food_id
+I001746,O01217,F033,Samosa (2 pcs),1,140,g,55.0,0.0,55.0,consumed,1.0,food_id
+I001747,O01218,F013,Veg. Hakka Noodles,1,350,g,190.0,0.0,190.0,consumed,1.0,normalised_name
+I001748,O01219,F021,Curd (Dahi),1,500,g,63.6,0.0,63.6,unknown,,food_id
+I001749,O01219,F022,Banana,6,120,g,6.36,0.0,38.16,unknown,,food_id
+I001750,O01219,F023,Boiled Eggs,1,600,g,89.04,0.0,89.04,unknown,,food_id
+I001751,O01219,F025,Apple,1,1000,g,212.0,0.0,212.0,unknown,,food_id
+I001752,O01219,F026,Mixed Nuts,1,250,g,264.95,0.0,264.95,unknown,,food_id
+I001753,O01220,F028,Home Oats with Milk,1,250,g,35.0,0.0,35.0,consumed,1.0,food_id
+I001754,O01221,F005,Dal Tadka with Jeera Rice,1,400,g,190.0,0.0,190.0,consumed,1.0,food_id
+I001755,O01222,F032,Cold Coffee,1,300,ml,125.0,0.0,125.0,consumed,1.0,food_id
+I001756,O01223,F001,masala dosa,1,250,g,115.0,0.0,115.0,consumed,1.0,normalised_name

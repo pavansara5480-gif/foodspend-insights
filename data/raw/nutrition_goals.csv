@@ -1,0 +1,4 @@
+goal_id,user_id,goal_key,goal_name,nutrient,direction,target_value,unit,reference_source,reference_date,is_active
+G01,U001,protein,Increase protein toward RDA,protein_g,at_least,65.5,g/day,ICMR-NIN Nutrient Requirements for Indians (2020): protein RDA 0.83 g/kg body weight/day; multiplied by latest recorded weight,2020,True
+G02,U001,fiber,Increase dietary fibre,fiber_g,at_least,30.0,g/day,"Dietary Guidelines for Americans 2020-2025 / IOM Adequate Intake: 14 g fibre per 1,000 kcal (~30 g at 2,110 kcal)",2020,False
+G03,U001,calories,Keep energy within estimated requirement,calories_kcal,at_most,2110.0,kcal/day,"ICMR-NIN Nutrient Requirements for Indians (2020): estimated energy requirement, sedentary adult man (reference body weight 65 kg)",2020,False

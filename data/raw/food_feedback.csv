@@ -1,0 +1,209 @@
+feedback_id,user_id,food_id,order_id,feedback_date,rating,preference_label,comment,would_buy_again,serving_preference
+FB0001,U001,F016,O00007,2025-10-28,3,acceptable,Fine but nothing special,maybe,same
+FB0002,U001,F003,O00013,2025-10-30,3,acceptable,Average taste,maybe,same
+FB0003,U001,F011,O00014,2025-10-30,2,disliked,Too oily and heavy,no,same
+FB0004,U001,F013,O00017,2025-10-31,2,disliked,Did not enjoy it,no,same
+FB0005,U001,F001,O00019,2025-11-01,4,liked,"Nice, slightly salty",yes,same
+FB0006,U001,F040,O00020,2025-11-02,6,acceptable,"Okay, convenient",maybe,same
+FB0007,U001,F012,O00026,2025-11-02,4,liked,Tasty,yes,same
+FB0008,U001,F027,O00029,2025-11-04,3,acceptable,"Okay, convenient",maybe,same
+FB0009,U001,F031,O00037,2025-11-06,3,acceptable,Average taste,maybe,same
+FB0010,U001,F023,O00042,2025-11-08,4,liked,"Nice, slightly salty",yes,same
+FB0011,U001,F019,O00043,2025-11-08,2,avoid,Prefers not to eat fish,no,same
+FB0012,U001,F031,O00044,2025-11-08,4,liked,"Good, satisfying meal",yes,same
+FB0013,U001,F012,O00045,2025-11-08,4,liked,Tasty,yes,same
+FB0014,U001,F002,O00046,2025-11-10,5,liked,Great taste and portion,yes,same
+FB0015,U001,F028,O00049,2025-11-10,3,acceptable,Fine but nothing special,maybe,same
+FB0016,U001,F027,O00054,2025-11-11,3,acceptable,Average taste,maybe,same
+FB0017,U001,F013,O00059,2025-11-13,3,acceptable,"Okay, convenient",maybe,same
+FB0018,U001,F029,O00060,2025-11-14,,acceptable,"Okay, convenient",maybe,same
+FB0019,U001,F008,O00079,2025-11-18,4,liked,Tasty,yes,same
+FB0020,U001,F002,O00092,2025-11-22,4,liked,"Nice, slightly salty",yes,same
+FB0021,U001,F029,O00095,2025-11-23,4,liked,Tasty,yes,same
+FB0022,U001,F004,O00100,2025-11-24,5,liked,Loved it,yes,same
+FB0023,U001,F005,O00104,2025-11-25,4,liked,"Nice, slightly salty",yes,same
+FB0024,U001,F006,O00114,2025-11-28,4,liked,"Good, satisfying meal",yes,same
+FB0025,U001,F031,O00115,2025-11-28,4,liked,Tasty,yes,same
+FB0026,U001,F012,O00121,2025-12-01,4,liked,"Good, satisfying meal",yes,same
+FB0027,U001,F020,O00130,2025-12-03,4,liked,"Nice, slightly salty",yes,same
+FB0028,U001,F005,O00137,2025-12-05,4,liked,Tasty,yes,same
+FB0029,U001,F006,O00143,2025-12-06,5,liked,Great taste and portion,yes,same
+FB0030,U001,F021,O00145,2025-12-07,4,liked,"Good, satisfying meal",yes,same
+FB0031,U001,F031,O99999,2025-12-11,4,liked,"Nice, slightly salty",yes,same
+FB0032,U001,F014,O00167,2025-12-12,4,liked,"Nice, slightly salty",yes,same
+FB0033,U001,F006,O00173,2025-12-14,5,liked,Great taste and portion,yes,same
+FB0034,U001,F030,O00180,2025-12-16,4,liked,"Nice, slightly salty",yes,same
+FB0035,U001,F039,O00182,2025-12-18,4,liked,"Good, satisfying meal",yes,same
+FB0036,U001,F001,O00193,2025-12-20,4,liked,"Nice, slightly salty",yes,same
+FB0037,U001,F030,O00195,2025-12-20,4,liked,"Nice, slightly salty",yes,same
+FB0038,U001,F031,O00208,2025-12-24,5,liked,Loved it,yes,same
+FB0039,U001,F003,O00218,2025-12-27,2,disliked,Portion felt too heavy,no,same
+FB0040,U001,F020,O00225,2025-12-30,5,liked,"Excellent, would order again",yes,same
+FB0041,U001,F029,O00229,2025-12-30,3,acceptable,Fine but nothing special,maybe,same
+FB0042,U001,F021,O00235,2025-12-31,5,liked,"Excellent, would order again",yes,same
+FB0043,U001,F001,O00259,2026-01-07,4,liked,Tasty,yes,same
+FB0044,U001,F022,O00260,2026-01-08,4,liked,"Good, satisfying meal",yes,same
+FB0045,U001,F020,O00266,2026-01-11,4,liked,"Good, satisfying meal",yes,same
+FB0046,U001,F009,O00274,2026-01-13,3,acceptable,"Okay, convenient",maybe,same
+FB0047,U001,F027,O00275,2026-01-12,4,liked,"Nice, slightly salty",yes,same
+FB0048,U001,F010,O00278,2026-01-14,4,liked,Tasty,yes,same
+FB0049,U001,F012,O00312,2026-01-22,3,acceptable,Fine but nothing special,maybe,same
+FB0050,U001,F036,O00318,2026-01-25,4,liked,"Good, satisfying meal",yes,same
+FB0051,U001,F001,O00325,2026-01-26,4,liked,"Nice, slightly salty",yes,same
+FB0052,U001,F007,O00337,2026-01-30,4,liked,"Good, satisfying meal",yes,same
+FB0053,U001,F014,O00339,2026-01-31,4,liked,Tasty,yes,same
+FB0054,U001,F001,O00352,2026-02-04,4,liked,Tasty,yes,same
+FB0055,U001,F002,O00354,2026-02-05,4,liked,"Nice, slightly salty",yes,same
+FB0056,U001,F008,O00363,2026-02-07,4,liked,"Nice, slightly salty",yes,same
+FB0057,U001,F001,O00366,2026-02-08,4,liked,"Nice, slightly salty",yes,same
+FB0058,U001,F005,O00373,2026-02-11,5,liked,Loved it,yes,same
+FB0059,U001,F001,O00383,2026-02-12,4,liked,"Nice, slightly salty",yes,same
+FB0060,U001,F020,O00384,2026-02-14,4,liked,Tasty,yes,same
+FB0061,U001,F005,O00387,2026-02-14,4,liked,Tasty,yes,same
+FB0062,U001,F021,O00395,2026-02-16,5,liked,Loved it,yes,same
+FB0063,U001,F031,O00398,2026-02-17,4,liked,Tasty,yes,same
+FB0064,U001,F006,O00403,2026-02-18,5,liked,Loved it,yes,same
+FB0065,U001,F021,O00406,2026-02-19,4,LIKED,Tasty,yes,same
+FB0066,U001,F022,O00428,2026-02-26,5,liked,"Excellent, would order again",yes,same
+FB0067,U001,F002,O00450,2026-03-03,5,liked,Loved it,yes,same
+FB0068,U001,F012,O00451,2026-03-03,4,liked,"Good, satisfying meal",yes,same
+FB0069,U001,F005,O00454,2026-03-04,3,acceptable,Fine but nothing special,maybe,same
+FB0070,U001,F020,O00473,2026-03-11,5,liked,Loved it,yes,same
+FB0071,U001,F031,O00474,2026-03-11,5,liked,Great taste and portion,yes,same
+FB0072,U001,F005,O00485,2026-03-31,5,liked,Loved it,yes,same
+FB0073,U001,F030,O00490,2026-04-01,4,liked,"Good, satisfying meal",yes,same
+FB0074,U001,F031,O00493,2026-04-02,4,liked,"Nice, slightly salty",yes,same
+FB0075,U001,F001,O00495,2026-04-03,5,liked,Loved it,yes,same
+FB0076,U001,F016,O00502,2026-04-05,3,acceptable,"Okay, convenient",maybe,same
+FB0077,U001,F013,O00503,2026-04-05,4,liked,"Good, satisfying meal",yes,same
+FB0078,U001,F012,O00508,2026-04-08,4,liked,Tasty,yes,same
+FB0079,U001,F002,O00519,2026-04-11,3,acceptable,"Okay, convenient",maybe,same
+FB0080,U001,F014,O00522,2026-04-10,4,liked,"Good, satisfying meal",yes,same
+FB0081,U001,F029,O00523,2026-04-11,3,acceptable,"Okay, convenient",maybe,same
+FB0082,U001,F007,O00525,2026-04-11,3,acceptable,"Okay, convenient",maybe,same
+FB0083,U001,F040,O00531,2026-04-13,2,disliked,Did not enjoy it,no,same
+FB0084,U001,F033,O00534,2026-04-15,5,liked,Loved it,yes,same
+FB0085,U001,F027,O00535,2026-04-15,4,liked,Tasty,yes,same
+FB0086,U001,F016,O00542,2026-04-17,3,acceptable,Average taste,maybe,decrease
+FB0087,U001,F012,O00546,2026-04-17,4,liked,Tasty,yes,same
+FB0088,U001,F004,O00552,2026-04-20,5,liked,Great taste and portion,yes,same
+FB0089,U001,F005,O00559,2026-04-22,4,liked,"Nice, slightly salty",yes,same
+FB0090,U001,F021,O00561,2026-04-21,5,liked,Loved it,yes,same
+FB0091,U001,F014,O00563,2026-04-22,4,liked,Tasty,yes,same
+FB0092,U001,F005,O00569,2026-04-23,3,acceptable,Fine but nothing special,maybe,same
+FB0093,U001,F023,O00575,2026-04-26,4,liked,Tasty,yes,same
+FB0094,U001,F005,O00580,2026-04-28,5,liked,Great taste and portion,yes,same
+FB0095,U001,F014,O00591,2026-05-01,4,liked,Tasty,yes,same
+FB0096,U001,F001,O00597,2026-05-03,4,liked,Tasty,yes,same
+FB0097,U001,F016,O00602,2026-05-04,3,acceptable,Average taste,maybe,same
+FB0098,U001,F027,O00606,2026-05-05,4,liked,Tasty,yes,same
+FB0099,U001,F027,O00615,2026-05-08,4,liked,"Good, satisfying meal",yes,same
+FB0100,U001,F006,O00623,2026-05-09,4,liked,"Good, satisfying meal",yes,same
+FB0101,U001,F020,O00624,2026-05-10,3,acceptable,Fine but nothing special,maybe,same
+FB0102,U001,F013,O00626,2026-05-10,4,liked,"Nice, slightly salty",yes,same
+FB0103,U001,F034,O00630,2026-05-11,5,liked,Loved it,yes,same
+FB0104,U001,F004,O00633,2026-05-12,4,liked,"Nice, slightly salty",yes,same
+FB0105,U001,F027,O00634,2026-05-12,4,liked,Tasty,yes,same
+FB0106,U001,F018,O00636,2026-05-14,4,liked,"Good, satisfying meal",yes,same
+FB0107,U001,F025,O00637,2026-05-14,4,liked,Tasty,yes,same
+FB0108,U001,F017,O00644,2026-05-16,3,acceptable,Average taste,maybe,same
+FB0109,U001,F023,O00652,2026-05-18,4,liked,"Nice, slightly salty",yes,same
+FB0110,U001,F006,O00654,2026-05-18,4,liked,"Good, satisfying meal",yes,same
+FB0111,U001,F012,O00655,2026-05-20,4,liked,"Good, satisfying meal",yes,same
+FB0112,U001,F021,O00656,2026-05-19,3,acceptable,Fine but nothing special,maybe,same
+FB0113,U001,F006,O00664,2026-05-21,4,liked,Tasty,yes,same
+FB0114,U001,F012,O00666,2026-05-23,3,acceptable,Average taste,maybe,same
+FB0115,U001,F027,O00670,2026-05-23,4,liked,"Nice, slightly salty",yes,same
+FB0116,U001,F015,O00671,2026-05-23,4,liked,Tasty,yes,same
+FB0117,U001,F004,O00674,2026-05-24,5,liked,"Excellent, would order again",yes,same
+FB0118,U001,F007,O00680,2026-05-26,5,liked,Loved it,yes,same
+FB0119,U001,F009,O00681,2026-05-28,5,liked,Great taste and portion,yes,same
+FB0120,U001,F028,O00684,2026-05-28,3,acceptable,"Okay, convenient",maybe,same
+FB0121,U001,F004,O00685,2026-05-29,5,like,Loved it,yes,same
+FB0122,U001,F033,O00686,2026-05-29,5,liked,Loved it,yes,same
+FB0123,U001,F006,O00692,2026-05-30,5,liked,Loved it,yes,same
+FB0124,U001,F001,O00700,2026-06-02,5,liked,Loved it,yes,same
+FB0125,U001,F006,O00703,2026-06-02,5,liked,"Excellent, would order again",yes,same
+FB0126,U001,F013,O00713,2026-06-04,2,disliked,Portion felt too heavy,no,decrease
+FB0127,U001,F002,O00717,2026-06-07,3,acceptable,"Okay, convenient",maybe,same
+FB0128,U001,F010,O00720,2026-06-06,4,liked,Tasty,yes,increase
+FB0129,U001,F002,O00721,2026-06-07,4,liked,"Nice, slightly salty",yes,same
+FB0130,U001,F017,O00722,2026-06-07,4,liked,"Nice, slightly salty",yes,same
+FB0131,U001,F004,O00729,2026-06-10,3,acceptable,Fine but nothing special,maybe,same
+FB0132,U001,F033,O00741,2026-06-13,5,like,Great taste and portion,yes,same
+FB0133,U001,F007,O00747,2026-06-15,4,liked,"Nice, slightly salty",yes,same
+FB0134,U001,F010,O00748,2026-06-15,5,liked,Great taste and portion,yes,same
+FB0135,U001,F007,O00758,2026-06-18,4,liked,Tasty,yes,same
+FB0136,U001,F027,O00764,2026-06-21,4,liked,Tasty,yes,same
+FB0137,U001,F027,O00769,2026-06-21,4,liked,"Nice, slightly salty",yes,same
+FB0138,U001,F005,O00774,2026-06-23,3,acceptable,"Okay, convenient",maybe,same
+FB0139,U001,F015,O00779,2026-06-25,4,liked,"Good, satisfying meal",yes,same
+FB0140,U001,F040,O00783,2026-06-26,3,acceptable,Average taste,maybe,same
+FB0141,U001,F001,O00786,2026-06-26,5,liked,"Excellent, would order again",yes,same
+FB0142,U001,F013,O00790,2026-06-27,3,acceptable,Fine but nothing special,maybe,decrease
+FB0143,U001,F007,O00795,2026-06-29,3,acceptable,"Okay, convenient",maybe,same
+FB0144,U001,F020,O00813,2026-07-05,4,liked,"Good, satisfying meal",yes,same
+FB0145,U001,F033,O00818,2026-07-06,4,liked,"Good, satisfying meal",yes,same
+FB0146,U001,F033,O00822,2026-07-06,4,liked,"Nice, slightly salty",yes,same
+FB0147,U001,F002,O00855,2026-07-17,4,liked,"Nice, slightly salty",yes,same
+FB0148,U001,F016,O00856,2026-07-16,3,acceptable,Fine but nothing special,maybe,same
+FB0149,U001,F034,O00869,2026-07-19,5,liked,Loved it,yes,same
+FB0150,U001,F002,O00877,2026-07-22,4,liked,Tasty,yes,same
+FB0151,U001,F015,O00880,2026-07-22,4,liked,"Nice, slightly salty",yes,same
+FB0152,U001,F013,O00883,2026-07-23,2,disliked,Did not enjoy it,no,decrease
+FB0153,U001,F037,O00888,2026-07-24,4,liked,"Nice, slightly salty",yes,same
+FB0154,U001,F040,O00903,2026-07-29,2,disliked,Portion felt too heavy,no,same
+FB0155,U001,F010,O00905,2026-07-28,4,liked,"Nice, slightly salty",yes,same
+FB0156,U001,F014,O00912,2026-07-31,3,acceptable,Fine but nothing special,maybe,same
+FB0157,U001,F031,O00918,2026-08-01,5,liked,"Excellent, would order again",yes,same
+FB0158,U001,F003,O00920,2026-08-03,3,acceptable,"Okay, convenient",maybe,same
+FB0159,U001,F003,O00924,2026-08-03,3,acceptable,"Okay, convenient",maybe,same
+FB0160,U001,F006,O00928,2026-08-05,4,liked,"Nice, slightly salty",yes,same
+FB0161,U001,F020,O00934,2026-08-06,5,liked,Great taste and portion,yes,same
+FB0162,U001,F001,O00941,2026-08-09,4,liked,"Good, satisfying meal",yes,same
+FB0163,U001,F028,O00946,2026-08-10,3,acceptable,Average taste,maybe,same
+FB0164,U001,F005,O00948,2026-08-10,4,liked,Tasty,yes,same
+FB0165,U001,F007,O00949,2026-08-11,4,liked,"Good, satisfying meal",yes,same
+FB0166,U001,F033,O00950,2026-08-11,4,liked,"Good, satisfying meal",yes,same
+FB0167,U001,F001,O00952,2026-08-12,5,liked,"Excellent, would order again",yes,same
+FB0168,U001,F031,O00957,2026-08-13,4,liked,"Nice, slightly salty",yes,same
+FB0169,U001,F001,O00960,2026-08-14,5,liked,"Excellent, would order again",yes,same
+FB0170,U001,F005,O00965,2026-08-15,4,liked,"Good, satisfying meal",yes,same
+FB0171,U001,F031,O00976,2026-08-18,4,liked,"Nice, slightly salty",yes,same
+FB0172,U001,F005,O00979,2026-08-20,4,liked,"Nice, slightly salty",yes,same
+FB0173,U001,F005,O01010,2026-08-28,4,liked,"Nice, slightly salty",yes,same
+FB0174,U001,F008,O01013,2026-08-30,5,liked,Loved it,yes,increase
+FB0175,U001,F006,O01025,2026-09-02,5,liked,Loved it,yes,same
+FB0176,U001,F018,O01039,2026-09-05,4,liked,Tasty,yes,increase
+FB0177,U001,F012,O01043,2026-09-06,3,acceptable,Fine but nothing special,maybe,same
+FB0178,U001,F020,O01047,2026-09-08,4,liked,Tasty,yes,same
+FB0179,U001,F010,O01055,2026-09-11,5,liked,Great taste and portion,yes,increase
+FB0180,U001,F001,O01057,2026-09-11,4,liked,"Good, satisfying meal",yes,same
+FB0181,U001,F031,O01058,2026-09-12,5,liked,Loved it,yes,same
+FB0182,U001,F014,O01072,2026-09-15,4,liked,"Nice, slightly salty",yes,same
+FB0183,U001,F027,O01081,2026-09-17,4,liked,"Good, satisfying meal",yes,same
+FB0184,U001,F029,O01082,2026-09-19,3,acceptable,Average taste,maybe,same
+FB0185,U001,F014,O01090,2026-09-20,3,acceptable,"Okay, convenient",maybe,same
+FB0186,U001,F017,O01097,2026-09-23,3,acceptable,Fine but nothing special,maybe,same
+FB0187,U001,F035,O01113,2026-09-26,3,acceptable,Fine but nothing special,maybe,same
+FB0188,U001,F031,O01117,2026-09-27,3,acceptable,Average taste,maybe,same
+FB0189,U001,F016,O01122,2026-09-29,3,acceptable,"Okay, convenient",maybe,decrease
+FB0190,U001,F014,O01133,2026-10-01,4,liked,"Nice, slightly salty",yes,same
+FB0191,U001,F006,O01138,2026-10-02,5,liked,Great taste and portion,yes,same
+FB0192,U001,F001,O01139,2026-10-04,4,liked,Tasty,yes,same
+FB0193,U001,F018,O01148,2026-10-05,4,LIKED,Tasty,yes,increase
+FB0194,U001,F004,O01153,2026-10-07,4,liked,"Nice, slightly salty",yes,same
+FB0195,U001,F014,O01173,2026-10-13,3,acceptable,"Okay, convenient",maybe,same
+FB0196,U001,F005,O01175,2026-10-13,4,liked,"Nice, slightly salty",yes,same
+FB0197,U001,F012,O01182,2026-10-16,3,acceptable,"Okay, convenient",maybe,same
+FB0198,U001,F017,O01186,2026-10-16,3,acceptable,Average taste,maybe,same
+FB0199,U001,F008,O01189,2026-10-17,5,liked,"Excellent, would order again",yes,same
+FB0200,U001,F030,O01193,2026-10-18,5,liked,"Excellent, would order again",yes,same
+FB0201,U001,F005,O01197,2026-10-20,4,liked,Tasty,yes,same
+FB0202,U001,F028,O01203,2026-10-22,4,liked,Tasty,yes,same
+FB0203,U001,F006,O01208,2026-10-22,5,liked,Great taste and portion,yes,same
+FB0204,U001,F004,O01211,2026-10-24,4,liked,Tasty,yes,same
+FB0205,U001,F013,O01218,2026-10-25,2,disliked,Portion felt too heavy,no,same
+FB0206,U001,F018,,2026-06-14,5,like,In-app preference survey,yes,same
+FB0207,U001,F038,,2026-07-02,4,liked,In-app preference survey,yes,same
+FB0208,U001,F010,,2026-08-20,5,liked,In-app preference survey,yes,same

@@ -1,0 +1,7 @@
+# Notebooks, figures and presentation (in addition to backend/requirements.txt)
+matplotlib>=3.8
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.0
+notebook>=7.0
+python-pptx>=1.0

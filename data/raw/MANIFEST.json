@@ -1,0 +1,25 @@
+{
+  "synthetic": true,
+  "generator": "analysis/scripts/generate_synthetic_data.py",
+  "seed": 20251027,
+  "period_start": "2025-10-27",
+  "period_end": "2026-10-26",
+  "row_counts": {
+    "orders": 1225,
+    "order_items": 1762,
+    "food_feedback": 208,
+    "health_measurements": 81,
+    "foods": 40,
+    "meal_options": 80
+  },
+  "injected_quality_issues": [
+    "food_name_raw variants for F001/F004/F013/F027 (up to 10 rows each)",
+    "4 order items with blank food_id (resolvable by name matching)",
+    "30 inconsistent unit spellings (G, grams, gm, ML)",
+    "3 invalid order items (quantity 0, quantity -1, unknown food F999), not part of receipts",
+    "2 orders whose final_total does not equal the sum of their components",
+    "3 duplicated order-item rows and 2 duplicated order rows",
+    "feedback: rating 6, missing rating, label spelling variants, 1 broken order link",
+    "health: 1 implausible weight (decimal-shift typo), 1 duplicated measurement"
+  ]
+}

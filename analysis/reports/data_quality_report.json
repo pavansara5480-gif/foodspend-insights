@@ -1,0 +1,259 @@
+{
+  "tables": {
+    "users": {
+      "raw_rows": 1,
+      "missing_values": {},
+      "clean_rows": 1
+    },
+    "vendors": {
+      "raw_rows": 9,
+      "missing_values": {},
+      "clean_rows": 9
+    },
+    "foods": {
+      "raw_rows": 40,
+      "missing_values": {},
+      "clean_rows": 40
+    },
+    "food_nutrition": {
+      "raw_rows": 40,
+      "missing_values": {
+        "fiber_g": 2
+      },
+      "clean_rows": 40
+    },
+    "meal_options": {
+      "raw_rows": 80,
+      "missing_values": {},
+      "clean_rows": 80
+    },
+    "orders": {
+      "raw_rows": 1225,
+      "missing_values": {
+        "meal_type": 73
+      },
+      "clean_rows": 1223
+    },
+    "order_items": {
+      "raw_rows": 1762,
+      "missing_values": {
+        "food_id": 4,
+        "portion_consumed": 330
+      },
+      "clean_rows": 1755
+    },
+    "food_feedback": {
+      "raw_rows": 208,
+      "missing_values": {
+        "order_id": 3,
+        "rating": 1
+      },
+      "clean_rows": 206
+    },
+    "health_measurements": {
+      "raw_rows": 81,
+      "missing_values": {
+        "notes": 12
+      },
+      "clean_rows": 79
+    },
+    "nutrition_goals": {
+      "raw_rows": 3,
+      "missing_values": {},
+      "clean_rows": 3
+    },
+    "reference_ranges": {
+      "raw_rows": 7,
+      "missing_values": {
+        "lower": 4
+      },
+      "clean_rows": 7
+    }
+  },
+  "checks": [
+    {
+      "table": "orders",
+      "check": "exact duplicate rows removed",
+      "rows_removed": 2
+    },
+    {
+      "table": "order_items",
+      "check": "exact duplicate rows removed",
+      "rows_removed": 3
+    },
+    {
+      "table": "health_measurements",
+      "check": "exact duplicate rows removed",
+      "rows_removed": 1
+    },
+    {
+      "table": "food_nutrition",
+      "check": "nutrition basis unit matches food serving unit",
+      "mismatches": 0
+    },
+    {
+      "table": "food_nutrition",
+      "check": "foods with unknown nutrient values (kept as NULL, not zero)",
+      "foods": [
+        "F013: fiber_g",
+        "F016: fiber_g"
+      ]
+    },
+    {
+      "table": "orders",
+      "check": "meal_type inferred from order time (flagged meal_type_inferred)",
+      "rows": 2,
+      "rule": "breakfast <11:00, lunch 11-16, snack 16-19, dinner >=19:00"
+    },
+    {
+      "table": "orders",
+      "check": "final_total recomputed from components (subtotal - discount + tax + delivery + other)",
+      "rows": 2,
+      "order_ids": [
+        "O00017",
+        "O00676"
+      ],
+      "difference_inr": 100.0
+    },
+    {
+      "table": "order_items",
+      "check": "serving units standardised",
+      "rows": 30,
+      "variants": [
+        "G",
+        "ML",
+        "gm",
+        "grams"
+      ]
+    },
+    {
+      "table": "order_items",
+      "check": "blank food_id resolved by exact normalised-name match",
+      "resolved": 3,
+      "unresolved": 1
+    },
+    {
+      "table": "order_items",
+      "check": "raw food names standardised to catalogue name",
+      "rows": 43
+    },
+    {
+      "table": "order_items",
+      "check": "unknown food (orphan food_id)",
+      "rows_rejected": 2
+    },
+    {
+      "table": "order_items",
+      "check": "quantity must be > 0",
+      "rows_rejected": 2
+    },
+    {
+      "table": "order_items",
+      "check": "item unit matches food unit",
+      "mismatches": 0
+    },
+    {
+      "table": "order_items",
+      "check": "line_total = quantity x unit_price - item_discount",
+      "mismatches": 0
+    },
+    {
+      "table": "orders",
+      "check": "sum(item line totals) equals order items_subtotal (no double counting)",
+      "orders_checked": 1223,
+      "mismatches": 0,
+      "orders_without_items": 1
+    },
+    {
+      "table": "food_feedback",
+      "check": "rating missing or outside 1-5",
+      "rows_rejected": 2
+    },
+    {
+      "table": "food_feedback",
+      "check": "preference labels standardised",
+      "rows": 5,
+      "variants": [
+        "LIKED",
+        "like"
+      ]
+    },
+    {
+      "table": "food_feedback",
+      "check": "order link removed where order_id does not exist (feedback kept)",
+      "rows": 1,
+      "feedback_ids": [
+        "FB0031"
+      ]
+    },
+    {
+      "table": "food_feedback",
+      "check": "label contradicts rating (kept, reported)",
+      "rows": 0
+    },
+    {
+      "table": "health_measurements",
+      "check": "physiologically implausible value or unknown indicator",
+      "rows_rejected": 1
+    }
+  ],
+  "synthetic_data": true,
+  "health_frequency": {
+    "diastolic_bp": {
+      "count": 11,
+      "first": "2025-11-03",
+      "last": "2026-10-02",
+      "median_days_between": 31.5
+    },
+    "fasting_glucose": {
+      "count": 4,
+      "first": "2025-11-10",
+      "last": "2026-08-24",
+      "median_days_between": 95.0
+    },
+    "systolic_bp": {
+      "count": 11,
+      "first": "2025-11-03",
+      "last": "2026-10-02",
+      "median_days_between": 31.5
+    },
+    "waist_circumference": {
+      "count": 12,
+      "first": "2025-11-03",
+      "last": "2026-10-02",
+      "median_days_between": 30.0
+    },
+    "weight": {
+      "count": 41,
+      "first": "2025-11-02",
+      "last": "2026-10-25",
+      "median_days_between": 7.0
+    }
+  },
+  "coverage": {
+    "first_date": "2025-10-27",
+    "last_date": "2026-10-26",
+    "calendar_days": 365,
+    "days_with_records": 346,
+    "gaps_of_3_plus_days": [
+      {
+        "from": "2026-03-14",
+        "to": "2026-03-29",
+        "days": 16
+      }
+    ],
+    "orders_by_record_type": {
+      "home_meal": 575,
+      "delivery_order": 431,
+      "cafe_purchase": 146,
+      "grocery_purchase": 71
+    },
+    "items_by_consumption_status": {
+      "consumed": 1321,
+      "unknown": 326,
+      "partially_consumed": 86,
+      "not_consumed": 22
+    }
+  },
+  "rejected_total": 7
+}
